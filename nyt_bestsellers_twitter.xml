@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NYT Best Sellers: Combined Print &amp; E-Book Fiction (via API) (Twitter)</title>
+    <link>http://example.com/nyt_bestsellers_twitter.xml</link>
+    <description>Current NYT Combined Print &amp; E-Book Fiction best sellers (pulled from NYT API). (list published: 2025-06-15)</description>
+    <atom:link href="http://example.com/nyt_bestsellers_twitter.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 10:33:33 +0000</lastBuildDate>
+    <item>
+      <title>15. Onyx Storm by Rebecca Yarros</title>
+      <link>https://www.amazon.com/dp/1649374186?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #15: *Onyx Storm* by Rebecca Yarros.
+The third book in the Empyrean series. As enemies gain traction, Violet Sorrengail goes beyond the A...
+⏱️ Week 19 on the list
+#RebeccaYarros #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-15-Onyx Storm</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14. My Friends by Fredrik Backman</title>
+      <link>https://www.amazon.com/dp/1982112824?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #14: *My Friends* by Fredrik Backman.
+A young woman looks into the story behind a painting that was made 25 years ago and a small group of...
+⏱️ Week 4 on the list
+#FredrikBackman #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-14-My Friends</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>13. Remarkably Bright Creatures by Shelby Van Pelt</title>
+      <link>https://www.amazon.com/dp/0063204150?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #13: *Remarkably Bright Creatures* by Shelby Van Pelt.
+A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant...
+⏱️ Week 8 on the list
+#ShelbyVanPelt #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-13-Remarkably Bright Creatures</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12. Return to Sender by Craig Johnson</title>
+      <link>https://www.amazon.com/dp/B0DCDYV279?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #12: *Return to Sender* by Craig Johnson.
+The 21st book in the Longmire series. An otherworldly cult might be connected to the disappearance o...
+🔥 New entry this week!
+#CraigJohnson #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-12-Return to Sender</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>11. The Knight and the Moth by Rachel Gillig</title>
+      <link>https://www.amazon.com/dp/0316582700?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #11: *The Knight and the Moth* by Rachel Gillig.
+Sybil Delling, who is gifted with the power of foresight, forms an alliance with a heretical knight...
+⏱️ Week 2 on the list
+#RachelGillig #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-11-The Knight and the Moth</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10. Iron Flame by Rebecca Yarros</title>
+      <link>https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #10: *Iron Flame* by Rebecca Yarros.
+The second book in the Empyrean series. Violet Sorrengail’s next round of training under the new vic...
+⏱️ Week 66 on the list
+#RebeccaYarros #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-10-Iron Flame</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9. Beautiful Venom by Rina Kent</title>
+      <link>https://www.amazon.com/dp/1464245622?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #9: *Beautiful Venom* by Rina Kent.
+Getting close to the captain of an elite hockey team comes at a cost.
+🔥 New entry this week!
+#RinaKent #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-9-Beautiful Venom</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8. The Tenant by Freida McFadden</title>
+      <link>https://www.amazon.com/dp/1464227314?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #8: *The Tenant* by Freida McFadden.
+Things take an unsettling turn when a marketing executive loses his job and a woman rents a room in...
+⏱️ Week 4 on the list
+#FreidaMcFadden #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-8-The Tenant</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7. One Golden Summer by Carley Fortune</title>
+      <link>https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #7: *One Golden Summer* by Carley Fortune.
+A photographer returns to a place where she spent a summer as a teenager and runs into the guy she h...
+⏱️ Week 4 on the list
+#CarleyFortune #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-7-One Golden Summer</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6. Great Big Beautiful Life by Emily Henry</title>
+      <link>https://www.amazon.com/dp/059344129X?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #6: *Great Big Beautiful Life* by Emily Henry.
+A writer looking for her big break competes against a Pulitzer winner to tell the story of an octoge...
+⏱️ Week 6 on the list
+#EmilyHenry #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-6-Great Big Beautiful Life</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5. Nightshade by Michael Connelly</title>
+      <link>https://www.amazon.com/dp/0316588482?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #5: *Nightshade* by Michael Connelly.
+The Los Angeles County sheriff's detective Stilwell gets reassigned to Catalina Island, where he inv...
+⏱️ Week 2 on the list
+#MichaelConnelly #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-5-Nightshade</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4. Releasing 10 by Chloe Walsh</title>
+      <link>https://www.amazon.com/dp/1464248516?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #4: *Releasing 10* by Chloe Walsh.
+In the first New Adult book set in the Boys of Tommen universe, the bond between Lizzie and Hugh is...
+🔥 New entry this week!
+#ChloeWalsh #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-4-Releasing 10</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3. Problematic Summer Romance by Ali Hazelwood</title>
+      <link>https://www.amazon.com/dp/B0DY68454N?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #3: *Problematic Summer Romance* by Ali Hazelwood.
+Things get complicated between an older biotech guy and a struggling graduate student who go to a de...
+🔥 New entry this week!
+#AliHazelwood #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-3-Problematic Summer Romance</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2. Hidden Nature by Nora Roberts</title>
+      <link>https://www.amazon.com/dp/B0DDJC6XS2?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #2: *Hidden Nature* by Nora Roberts.
+After recovering from a gunshot, a Natural Resources police officer investigates a woman’s disappear...
+🔥 New entry this week!
+#NoraRoberts #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-2-Hidden Nature</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1. Never Flinch by Stephen King</title>
+      <link>https://www.amazon.com/dp/1668089335?tag=thenewyorktim-20</link>
+      <description>📖 Bestseller #1: *Never Flinch* by Stephen King.
+Holly Gibney does double duty by helping head off acts of retribution and protecting a women’s right...
+🔥 New entry this week!
+#StephenKing #NYTBestseller #Books</description>
+      <guid isPermaLink="false">tw-1-Never Flinch</guid>
+      <pubDate>Sat, 14 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
