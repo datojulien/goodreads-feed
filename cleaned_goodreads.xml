@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → IFTTT Tweets</title>
-  <updated>2025-06-05T10:00:44.520692+00:00</updated>
+  <updated>2025-06-05T13:55:29+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,7 +10,7 @@
   <link href="http://example.com/cleaned_goodreads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>ReadStatus9510844135</id>
+    <id>ReadStatus9510844135-tw</id>
     <title>Julien started reading 'Rita Moreno: A Memoir'</title>
     <updated>2025-06-05T01:28:19-07:00</updated>
     <content type="text">🚀 Starting “Rita Moreno: A Memoir” by Rita Moreno
@@ -19,7 +19,7 @@
     <link href="https://www.goodreads.com/review/show/2149572191"/>
   </entry>
   <entry>
-    <id>ReadStatus9510828601</id>
+    <id>ReadStatus9510828601-tw</id>
     <title>Julien started reading 'A Line to Kill'</title>
     <updated>2025-06-05T01:16:21-07:00</updated>
     <content type="text">🚀 Starting “A Line to Kill” by Anthony Horowitz
@@ -28,7 +28,7 @@
     <link href="https://www.goodreads.com/review/show/7629214677"/>
   </entry>
   <entry>
-    <id>Review7626868384</id>
+    <id>Review7626868384-tw</id>
     <title>Julien added 'Giovanni’s Room'</title>
     <updated>2025-06-05T00:24:43-07:00</updated>
     <content type="text">📚 “Giovanni’s Room” by James Baldwin
@@ -38,7 +38,7 @@
     <link href="https://www.goodreads.com/review/show/7626868384"/>
   </entry>
   <entry>
-    <id>Review7620459773</id>
+    <id>Review7620459773-tw</id>
     <title>Julien added 'The Case of the Blonde Bonanza'</title>
     <updated>2025-06-04T01:16:11-07:00</updated>
     <content type="text">📚 “The Case of the Blonde Bonanza” by Erle Stanley Gardner
@@ -48,22 +48,12 @@
     <link href="https://www.goodreads.com/review/show/7620459773"/>
   </entry>
   <entry>
-    <id>ReadStatus9498351997</id>
+    <id>ReadStatus9498351997-tw</id>
     <title>Julien is currently reading 'The Case of the Blonde Bonanza'</title>
     <updated>2025-06-01T23:15:59-07:00</updated>
     <content type="text">🚀 Starting “The Case of the Blonde Bonanza” by Erle Stanley Gardner
 🔗 Follow my progress: https://www.goodreads.com/review/show/7620459773
 🏷️ #ErleStanleyGardner #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7620459773"/>
-  </entry>
-  <entry>
-    <id>Review505593265</id>
-    <title>Julien added 'Evil Under the Sun'</title>
-    <updated>2025-05-30T07:49:27-07:00</updated>
-    <content type="text">📚 “Evil Under the Sun” by Agatha Christie
-⭐️ Rated: 4/5
-📝 "Evil Under the Sun is a Poirot novel written at a time when Christie clearly still cared deeply for the character, and it shows. Present throughout the entire story, the Belgian detective draws on la..."
-🏷️ #AgathaChristie</content>
-    <link href="https://www.goodreads.com/review/show/505593265"/>
   </entry>
 </feed>
