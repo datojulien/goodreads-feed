@@ -10,22 +10,26 @@
   <link href="http://example.com/cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>ReadStatus9510844135-th</id>
-    <title>Julien started reading 'Rita Moreno: A Memoir'</title>
-    <updated>2025-06-05T01:28:19-07:00</updated>
-    <content type="text">🚀 Starting “Rita Moreno: A Memoir” by Rita Moreno
-🔗 Follow my progress: https://www.goodreads.com/review/show/2149572191
-🏷️ #RitaMoreno #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/2149572191"/>
+    <id>UserStatus1074962459-th</id>
+    <title>Julien
+    is 20% done with A Line to Kill</title>
+    <updated>2025-06-05T06:55:29-07:00</updated>
+    <content type="text">📈 I have read 20% of “” by 
+▰▰▱▱▱▱▱▱▱▱
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
-    <id>ReadStatus9510828601-th</id>
-    <title>Julien started reading 'A Line to Kill'</title>
-    <updated>2025-06-05T01:16:21-07:00</updated>
-    <content type="text">🚀 Starting “A Line to Kill” by Anthony Horowitz
-🔗 Follow my progress: https://www.goodreads.com/review/show/7629214677
-🏷️ #AnthonyHorowitz #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7629214677"/>
+    <id>UserStatus1074873669-th</id>
+    <title>Julien
+    is 15% done with A Line to Kill</title>
+    <updated>2025-06-05T01:19:46-07:00</updated>
+    <content type="text">📈 I have read 15% of “” by 
+▰▰▱▱▱▱▱▱▱▱
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>Review7626868384-th</id>
@@ -45,15 +49,6 @@
 ⭐️ Rated: 3/5
 📝 "The Case of the Blonde Bonanza is a slightly offbeat Perry Mason mystery, where the actual crime shows up rather late in the narrative and is resolved rather quickly. But the build-up to the murder is clever and refreshingly different from the usual formula. Set away from Los Angeles, it gives both Perry, and the reader, a welcome break from the recurring courtroom clashes with Hamilton Burger and the gruff presence of Lt. Tragg. A pleasant and inventive entry in the series. ⸻ The Case of the Bl..."
 🏷️ #ErleStanleyGardner</content>
-    <link href="https://www.goodreads.com/review/show/7620459773"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9498351997-th</id>
-    <title>Julien is currently reading 'The Case of the Blonde Bonanza'</title>
-    <updated>2025-06-01T23:15:59-07:00</updated>
-    <content type="text">🚀 Starting “The Case of the Blonde Bonanza” by Erle Stanley Gardner
-🔗 Follow my progress: https://www.goodreads.com/review/show/7620459773
-🏷️ #ErleStanleyGardner #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7620459773"/>
   </entry>
 </feed>
