@@ -1,81 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.goodreads.com/user/updates_rss/14857928</id>
-  <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-06-06T07:25:40+00:00</updated>
-  <author>
-    <name>Julien</name>
-  </author>
-  <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
-  <link href="http://example.com/cleaned_goodreads_twitter.xml" rel="self"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>UserStatus1075405126-tw</id>
-    <title>Julien
-    is 30% done with A Line to Kill</title>
-    <updated>2025-06-06T00:25:40-07:00</updated>
-    <content type="text">📈 I have read 30% of “A Line to Kill” by Anthony Horowitz
-▓▓▓▓▓▓░░░░░░░░░░░░░░  30.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AnthonyHorowitz #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1074962459-tw</id>
-    <title>Julien
-    is 20% done with A Line to Kill</title>
-    <updated>2025-06-05T06:55:29-07:00</updated>
-    <content type="text">📈 I have read 20% of “A Line to Kill” by Anthony Horowitz
-▓▓▓▓░░░░░░░░░░░░░░░░  20.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AnthonyHorowitz #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9510844135-tw</id>
-    <title>Julien started reading 'Rita Moreno: A Memoir'</title>
-    <updated>2025-06-05T01:28:19-07:00</updated>
-    <content type="text">🚀 Starting “Rita Moreno: A Memoir” by Rita Moreno
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><id>https://www.goodreads.com/user/updates_rss/14857928</id><title>Julien’s Goodreads → Twitter Feed</title><updated>2025-06-07T10:07:48.936660+00:00</updated><author><name>Julien</name></author><link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/><link href="https://raw.githubusercontent.com/datojulien/goodreads-feed/main/cleaned_goodreads_twitter.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>ReadStatus9510844135-tw</id><title>Julien started reading 'Rita Moreno: A Memoir'</title><updated>2025-06-05T01:28:19-07:00</updated><content type="text">🚀 Starting “Rita Moreno: A Memoir” by Rita Moreno
 🔗 Follow my progress: https://www.goodreads.com/review/show/2149572191
-🏷️ #RitaMoreno #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/2149572191"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9510828601-tw</id>
-    <title>Julien started reading 'A Line to Kill'</title>
-    <updated>2025-06-05T01:16:21-07:00</updated>
-    <content type="text">🚀 Starting “A Line to Kill” by Anthony Horowitz
+🏷️ #RitaMoreno #NowReading</content><link href="https://www.goodreads.com/review/show/2149572191"/></entry><entry><id>ReadStatus9510828601-tw</id><title>Julien started reading 'A Line to Kill'</title><updated>2025-06-05T01:16:21-07:00</updated><content type="text">🚀 Starting “A Line to Kill” by Anthony Horowitz
 🔗 Follow my progress: https://www.goodreads.com/review/show/7629214677
-🏷️ #AnthonyHorowitz #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7629214677"/>
-  </entry>
-  <entry>
-    <id>Review7626868384-tw</id>
-    <title>Julien added 'Giovanni’s Room'</title>
-    <updated>2025-06-05T00:24:43-07:00</updated>
-    <content type="text">📚 “Giovanni’s Room” by James Baldwin
+🏷️ #AnthonyHorowitz #NowReading</content><link href="https://www.goodreads.com/review/show/7629214677"/></entry><entry><id>Review7626868384-tw</id><title>Julien added 'Giovanni’s Room'</title><updated>2025-06-05T00:24:43-07:00</updated><content type="text">📚 “Giovanni’s Room” by James Baldwin
 ⭐️ Rated: 4/5
 📝 "Giovanni’s Room is a sentimental love story, sometimes bordering on melodrama, but it’s Baldwin’s writing that makes it the classic it is. His flow is effortless, and his descriptions of emotions, pla..."
-🏷️ #JamesBaldwin</content>
-    <link href="https://www.goodreads.com/review/show/7626868384"/>
-  </entry>
-  <entry>
-    <id>Review7620459773-tw</id>
-    <title>Julien added 'The Case of the Blonde Bonanza'</title>
-    <updated>2025-06-04T01:16:11-07:00</updated>
-    <content type="text">📚 “The Case of the Blonde Bonanza” by Erle Stanley Gardner
+🏷️ #JamesBaldwin</content><link href="https://www.goodreads.com/review/show/7626868384"/></entry><entry><id>Review7620459773-tw</id><title>Julien added 'The Case of the Blonde Bonanza'</title><updated>2025-06-04T01:16:11-07:00</updated><content type="text">📚 “The Case of the Blonde Bonanza” by Erle Stanley Gardner
 ⭐️ Rated: 3/5
-📝 "The Case of the Blonde Bonanza is a slightly offbeat Perry Mason mystery, where the actual crime shows up rather late in the narrative and is resolved rather quickly. But the build-up to the murder is..."
-🏷️ #ErleStanleyGardner</content>
-    <link href="https://www.goodreads.com/review/show/7620459773"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9498351997-tw</id>
-    <title>Julien is currently reading 'The Case of the Blonde Bonanza'</title>
-    <updated>2025-06-01T23:15:59-07:00</updated>
-    <content type="text">🚀 Starting “The Case of the Blonde Bonanza” by Erle Stanley Gardner
+📝 "The Case of the Blonde Bonanza is a slightly offbeat Perry Mason mystery, where the actual crime shows up rather late in the narrative and is resolved rather quickly. But the build-up to the murder is....</content><link href="https://www.goodreads.com/review/show/7620459773"/></entry><entry><id>ReadStatus9498351997-tw</id><title>Julien is currently reading 'The Case of the Blonde Bonanza'</title><updated>2025-06-01T23:15:59-07:00</updated><content type="text">🚀 Starting “The Case of the Blonde Bonanza” by Erle Stanley Gardner
 🔗 Follow my progress: https://www.goodreads.com/review/show/7620459773
-🏷️ #ErleStanleyGardner #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7620459773"/>
-  </entry>
-</feed>
+🏷️ #ErleStanleyGardner #NowReading</content><link href="https://www.goodreads.com/review/show/7620459773"/></entry></feed>
