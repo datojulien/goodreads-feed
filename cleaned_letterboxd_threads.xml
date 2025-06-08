@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://letterboxd.com/julienpierre/rss/</id>
+  <title>Julien’s Letterboxd → Threads</title>
+  <updated>2025-06-07T14:34:10+00:00</updated>
+  <link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/>
+  <link href="cleaned_letterboxd_threads.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+</feed>
