@@ -1,5 +1,306 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Julien’s Letterboxd → Threads</title>
-  <updated>2025-06-08T06:09:49Z</updated>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://letterboxd.com/julienpierre/rss/</id>
+  <title>Letterboxd → Threads</title>
+  <updated>2025-06-08T06:15:58.706890+00:00</updated>
+  <link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/>
+  <link href="cleaned_letterboxd_threads.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>letterboxd-review-804404951#threads</id>
+    <title>King Lear, 1987 - ★★★½</title>
+    <updated>2025-02-09T18:38:54+13:00</updated>
+    <content type="text">🎥 King Lear, 1987
+⭐️ ★★★½
+King Lear is proof that when you box him in, he doesn’t just push against the walls—he scrawls poetry all over them. Forced to deliver, he makes something that barely resembles a play, yet somehow captures the essence of a world unraveling. It’s cryptic, messy, frustrating, and kind of brilliant.🔗 https://letterboxd.com/julienpierre/film/king-lear-1987/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/king-lear-1987/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-836651543#threads</id>
+    <title>Sleep, My Love, 1948 - ★★★½</title>
+    <updated>2025-03-16T04:17:01+13:00</updated>
+    <content type="text">🎥 Sleep, My Love, 1948
+⭐️ ★★★½
+A solid variation on the gaslight thriller with a few twists along the way. Claudette Colbert is, as expected, excellent, graceful, expressive, and totally believable as a woman being driven to the brink. The film leans more into melodrama than menace, but it works, thanks to its noirish atmosphere and a plot that keeps things moving. Not quite Gaslight, but an entertaining ride nonetheless.🔗 https://letterboxd.com/julienpierre/film/sleep-my-love/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/sleep-my-love/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-837721573#threads</id>
+    <title>Bluebeard's Eighth Wife, 1938 - ★★★★</title>
+    <updated>2025-03-17T03:37:12+13:00</updated>
+    <content type="text">🎥 Bluebeard's Eighth Wife, 1938
+⭐️ ★★★★
+Gary Cooper feels a bit miscast at first, but somehow, it works, especially when playing off the magnifique and always impeccable Claudette Colbert. Their dynamic fuels this sharp, subdued comedy, packed with excellent one-liners and a delightfully unhinged final act that leans fully into screwball chaos. Not as flashy as other Lubitsch gems, but still a witty, playful delight.🔗 https://letterboxd.com/julienpierre/film/bluebeards-eighth-wife/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/bluebeards-eighth-wife/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-846999684#threads</id>
+    <title>Play It Again, Sam, 1972 - ★★★</title>
+    <updated>2025-03-28T03:14:05+13:00</updated>
+    <content type="text">🎥 Play It Again, Sam, 1972
+⭐️ ★★★
+Still very much stuck in its stage origins, with a theatrical mise en scène that sometimes holds it back. A bit too heavy on the slapstick, and it tries a little too hard to be funny, but there are some genuinely great one-liners scattered throughout. Feels like a rough draft of Annie Hall and Manhattan, with all the neuroses but not quite the finesse. Cute, though.🔗 https://letterboxd.com/julienpierre/film/play-it-again-sam/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/play-it-again-sam/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-849425658#threads</id>
+    <title>Hairspray, 2007 - ★★★★</title>
+    <updated>2025-03-30T23:25:13+13:00</updated>
+    <content type="text">🎥 Hairspray, 2007
+⭐️ ★★★★
+It might run a little longer than it needs to, but Hairspray delivers where it counts: big songs, big energy, and a big heart. The music is broad and catchy, the message is clear without being heavy-handed, and above all, it’s just plain entertaining. And let’s be honest: Pfeiffer, Travolta, and Walken are having so much fun, it’s impossible not to be swept up in it. A feel-good musical that knows exactly what it is and has a blast doing it.🔗 https://letterboxd.com/julienpierre/film/hairspray-2007/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/hairspray-2007/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-850370245#threads</id>
+    <title>Mamma Mia!, 2008 - ★★★½</title>
+    <updated>2025-03-31T19:10:21+13:00</updated>
+    <content type="text">🎥 Mamma Mia!, 2008
+⭐️ ★★★½
+The film is a glorious mess, and kind of irresistible. The songs spiral around you until resistance is futile. ABBA’s genius carries it all. The script is pure fluff, what flies on stage just can’t quite land on screen. If you let go of logic and lean into the chaos, the ensemble cast pulls you in.🔗 https://letterboxd.com/julienpierre/film/mamma-mia/4/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/mamma-mia/4/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-850435845#threads</id>
+    <title>Mamma Mia! Here We Go Again, 2018 - ★★★★½</title>
+    <updated>2025-03-31T22:14:33+13:00</updated>
+    <content type="text">🎥 Mamma Mia! Here We Go Again, 2018
+⭐️ ★★★★½
+This time around, we actually get actors who can sing, and the ABBA songs finally feel like they serve the story instead of fighting it. Brosnan redeems himself with an unexpectedly moving a cappella version of “SOS,” and that final credit scene? Formidable.🔗 https://letterboxd.com/julienpierre/film/mamma-mia-here-we-go-again/4/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/mamma-mia-here-we-go-again/4/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-850455499#threads</id>
+    <title>Music and Lyrics, 2007 - ★★★★</title>
+    <updated>2025-03-31T23:09:19+13:00</updated>
+    <content type="text">🎥 Music and Lyrics, 2007
+⭐️ ★★★★
+There’s really nothing wrong with this feel-good romcom. Barrymore and Grant make a charming duo, full of spark and rhythm. The songs are surprisingly catchy, Way Back Into Love is a legit earworm. The whole Sally Michaels subplot? Totally contrived and a bit of a buzzkill.🔗 https://letterboxd.com/julienpierre/film/music-and-lyrics/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/music-and-lyrics/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-860106676#threads</id>
+    <title>Come September, 1961 - ★★½</title>
+    <updated>2025-04-13T02:46:45+12:00</updated>
+    <content type="text">🎥 Come September, 1961
+⭐️ ★★½
+Not much to say about this one : Rock Hudson is doing his usual Rock Hudsoning, and Gina Lollobrigida looks great but brings little depth to the role. Bobby Darin doesn’t shine much as an actor, though at least he gets to sing. What makes it worth a look? The stunning on-location shots, a scene-stealing turn by Walter Slezak, and the film debut of a young Joel Grey. A gentle, harmless comedy that coasts more than it dazzles.🔗 https://letterboxd.com/julienpierre/film/come-september/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/come-september/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-860851147#threads</id>
+    <title>Mississippi Rhythm, 1949 - ★★</title>
+    <updated>2025-04-13T18:55:54+12:00</updated>
+    <content type="text">🎥 Mississippi Rhythm, 1949
+⭐️ ★★
+The musical numbers easily take up half the runtime, leaving a plot that's about as thin as a postcard. There's also a minstrel scene that hasn't aged well, making it more of a historical curiosity than essential viewing. Still, if you're here for the vintage tunes, you'll find a few gems.🔗 https://letterboxd.com/julienpierre/film/mississippi-rhythm/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/mississippi-rhythm/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-864982781#threads</id>
+    <title>Liza: A Truly Terrific Absolutely True Story, 2024 - ★★★</title>
+    <updated>2025-04-18T16:37:50+12:00</updated>
+    <content type="text">🎥 Liza: A Truly Terrific Absolutely True Story, 2024
+⭐️ ★★★
+There is some fantastic never-before-seen footage and the story is decently told. There’s surprisingly little in terms of full performances, which feels like a missed opportunity. Darren Criss pops in like he accidentally wandered onto the set when the lights were already on. Worth a watch for the fans, but far from definitive.🔗 https://letterboxd.com/julienpierre/film/liza-a-truly-terrific-absolutely-true-story/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/liza-a-truly-terrific-absolutely-true-story/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-866320754#threads</id>
+    <title>The Inquisitor, 1981 - ★★★★½</title>
+    <updated>2025-04-20T03:01:07+12:00</updated>
+    <content type="text">🎥 The Inquisitor, 1981
+⭐️ ★★★★½
+Some films are carried by dialogue and acting so gripping, so razor-sharp, that the mise en scène fades into the background, and Garde à vue is one of them. Ventura and Serrault deliver a masterclass in tension, their face-off hypnotic and relentless. Everything else is stripped down, almost ghostly, so much so that even Romy Schneider feels like an apparition drifting through the fog. A haunting tour de force.🔗 https://letterboxd.com/julienpierre/film/the-inquisitor/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-inquisitor/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-867356490#threads</id>
+    <title>The Last Adventure, 1967 - ★★½</title>
+    <updated>2025-04-21T01:48:24+12:00</updated>
+    <content type="text">🎥 The Last Adventure, 1967
+⭐️ ★★½
+Les Aventuriers (1967) – ★★½ A film with a striking duo, Delon and Ventura light up the screen just by being there, but unfortunately, that’s about all it has going for it. The script is uninspired, the pacing drags, and Joanna Shimkus’ character lacks depth or charm. It all feels strangely flat. Only François de Roubaix’s haunting, melancholic score breathes any real life into the film. A missed opportunity saved, briefly, by mood and star power.🔗 https://letterboxd.com/julienpierre/film/the-last-adventure/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-last-adventure/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-872712456#threads</id>
+    <title>Arabesque, 1966 - ★★★½</title>
+    <updated>2025-04-27T02:26:24+12:00</updated>
+    <content type="text">🎥 Arabesque, 1966
+⭐️ ★★★½
+Arabesque is clearly an exercise in style, and thankfully, Stanley Donen brings enough of it to keep the whole thing afloat. The real saving grace? The magnetic chemistry between the stunning Sophia Loren and the ever-charming Gregory Peck. It’s a must-watch, but probably only for those with an acquired taste for slick, plot-light 60s capers.🔗 https://letterboxd.com/julienpierre/film/arabesque/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/arabesque/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-874705043#threads</id>
+    <title>Jean de Florette, 1986 - ★★★★½</title>
+    <updated>2025-04-29T02:42:30+12:00</updated>
+    <content type="text">🎥 Jean de Florette, 1986
+⭐️ ★★★★½
+The mood and atmosphere are beautifully crafted, wrapping the story in a melancholy that's as poignant as it is powerful. Above all, it's the exceptional acting from Depardieu, Auteuil, and Montand that elevates this film into masterpiece territory. A stunning first chapter, full of heartbreak and quiet tragedy.🔗 https://letterboxd.com/julienpierre/film/jean-de-florette/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/jean-de-florette/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-875404719#threads</id>
+    <title>Manon of the Spring, 1986 - ★★★★</title>
+    <updated>2025-04-30T01:42:03+12:00</updated>
+    <content type="text">🎥 Manon of the Spring, 1986
+⭐️ ★★★★
+The second part loses quite a bit in intensity, though it never loses its grip entirely. Auteuil and Montand remain the heart of the film, carrying much of the emotional weight. Béart and Girardot bring a welcome freshness, but it's not quite enough to stop the plot from faltering here and there.🔗 https://letterboxd.com/julienpierre/film/manon-of-the-spring/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/manon-of-the-spring/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-876113025#threads</id>
+    <title>Hit the Deck, 1955 - ★★★</title>
+    <updated>2025-05-01T01:31:08+12:00</updated>
+    <content type="text">🎥 Hit the Deck, 1955
+⭐️ ★★★
+The trio of Jane Powell, Debbie Reynolds, and Ann Miller is absolutely delightful that you're left wishing they had more group numbers together. Russ Tamblyn stands out for his jaw-dropping acrobatics, but otherwise, the charm is a bit uneven. Still, it’s breezy, colourful fun if you're here for the song-and-dance.🔗 https://letterboxd.com/julienpierre/film/hit-the-deck/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/hit-the-deck/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-879598221#threads</id>
+    <title>Compulsion, 1959 - ★★★½</title>
+    <updated>2025-05-04T20:11:34+12:00</updated>
+    <content type="text">🎥 Compulsion, 1959
+⭐️ ★★★½
+Compelling performance from Dean Stockwell, who anchors this suspenseful and tightly directed drama with eerie precision. The tension builds slowly but effectively, and when Welles finally appears in the final act, he absolutely steals the show. delivering a monologue that’s as riveting as it is unforgettable. A gripping courtroom drama with atmosphere, nuance, and standout acting.🔗 https://letterboxd.com/julienpierre/film/compulsion/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/compulsion/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-885312351#threads</id>
+    <title>The Umbrellas of Cherbourg, 1964 - ★★★★★</title>
+    <updated>2025-05-11T15:07:36+12:00</updated>
+    <content type="text">🎥 The Umbrellas of Cherbourg, 1964
+⭐️ ★★★★★
+Every element of artistry blends in perfect unison. Demy creates something that’s less a narrative than a cinematic ballet. The acting, songs, and mise en scène flow so seamlessly you’re never bored for a second. Its magic only deepens with each rewatch.🔗 https://letterboxd.com/julienpierre/film/the-umbrellas-of-cherbourg/2/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-umbrellas-of-cherbourg/2/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-885493795#threads</id>
+    <title>Gene Kelly - An American in Hollywood, 2025 - ★★</title>
+    <updated>2025-05-11T20:07:18+12:00</updated>
+    <content type="text">🎥 Gene Kelly
+⭐️ An American in Hollywood, 2025 - ★★
+Neither here nor there, this latest in a long line of Gene Kelly documentaries plays it frustratingly safe. It tiptoes around anything remotely controversial, and worse, sprinkles in some factual errors along the way. There’s nothing new under the sun here: the same recycled interviews, the same well-worn clichés about Kelly’s charm and choreography. A missed opportunity to dig deeper into a complex, fascinating figure.🔗 https://letterboxd.com/julienpierre/film/gene-kelly-an-american-in-hollywood/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/gene-kelly-an-american-in-hollywood/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-885578011#threads</id>
+    <title>Swing Time, 1936 - ★★★★½</title>
+    <updated>2025-05-11T23:25:04+12:00</updated>
+    <content type="text">🎥 Swing Time, 1936
+⭐️ ★★★★½
+The plot is barely there, just enough connective tissue to get from one glorious number to the next. The pairing of Ginger and Fred is the real magic. Their chemistry, timing, and elegance turn every scene into gold. Add in a few all-time classic songs making their debut here, and you’ve got a musical that’s not about the story.🔗 https://letterboxd.com/julienpierre/film/swing-time/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/swing-time/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-885636594#threads</id>
+    <title>Some Like It Hot, 1959 - ★★★★★</title>
+    <updated>2025-05-12T01:28:15+12:00</updated>
+    <content type="text">🎥 Some Like It Hot, 1959
+⭐️ ★★★★★
+This mafia-laced romp is pure comedic gold, with razor-sharp timing, iconic lines, and just the right dose of absurdity. The trio’s chemistry is electric, and even when the plot meanders, the charm never lets up. A classic for a reason even if nobody's… nah, I ain’t gonna say it.🔗 https://letterboxd.com/julienpierre/film/some-like-it-hot/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/some-like-it-hot/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-886374043#threads</id>
+    <title>How to Make a Killing, 2024 - ★★★</title>
+    <updated>2025-05-12T16:18:47+12:00</updated>
+    <content type="text">🎥 How to Make a Killing, 2024
+⭐️ ★★★
+Somewhere between a mild comedy, a mild thriller, and a mild Christmas movie it never pushes anything too far, but it doesn’t need to. The film rests comfortably on its casting: Laure Calamy’s deadpan delivery steals the best lines, Dubosc is surprisingly touching as the simple soul, and Poelvoorde is, well, peak Poelvoorde. Never boring, gently amusing, and oddly compelling from start to finish. A soft little gem with just enough bite.🔗 https://letterboxd.com/julienpierre/film/how-to-make-a-killing/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/how-to-make-a-killing/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-887208273#threads</id>
+    <title>The Lion in Winter, 1968 - ★★★★</title>
+    <updated>2025-05-13T17:03:22+12:00</updated>
+    <content type="text">🎥 The Lion in Winter, 1968
+⭐️ ★★★★
+The film runs a bit long and the plot can get tedious, but the verbal sparring and ensemble chemistry make it worth every minute. The cast is stacked, and no one falls short, especially Peter O’Toole, who matches her blow for blow. A powerhouse showcase of acting at its finest.🔗 https://letterboxd.com/julienpierre/film/the-lion-in-winter/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-lion-in-winter/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-887968317#threads</id>
+    <title>Diamonds Are Forever, 1971 - ★★★</title>
+    <updated>2025-05-14T17:15:48+12:00</updated>
+    <content type="text">🎥 Diamonds Are Forever, 1971
+⭐️ ★★★
+Diamonds Are Forever is an entertaining romp that keeps the Bond formula alive and kicking, with a wink. It's still a fun ride, with solid action and plenty of classic Bond flair, but Connery feels… off. Believable, sure, but a little rusty and visibly less invested. The tone shifts drastically, campier, looser and clearly paving the way for the Moore era.🔗 https://letterboxd.com/julienpierre/film/diamonds-are-forever/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/diamonds-are-forever/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-888745694#threads</id>
+    <title>Radio Days, 1987 - ★★★★½</title>
+    <updated>2025-05-15T17:56:28+12:00</updated>
+    <content type="text">🎥 Radio Days, 1987
+⭐️ ★★★★½
+There’s never a dull moment in Radio Days. Whether it’s the charmingly odd vignettes or the constant stream of toe-tapping period music, the film floats effortlessly through 90 minutes of pure nostalgic joy. The ensemble cast is excellent across the board, with fun appearance by Mia Farrow and a song by Diane Keaton, but it’s Dianne Wiest who absolutely steals the show. A warm, funny, and beautifully woven love letter to a bygone era.🔗 https://letterboxd.com/julienpierre/film/radio-days/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/radio-days/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-891191065#threads</id>
+    <title>Milli Vanilli, 2023 - ★★★★</title>
+    <updated>2025-05-18T16:20:59+12:00</updated>
+    <content type="text">🎥 Milli Vanilli, 2023
+⭐️ ★★★★
+Rob &amp; Fab come out of this film almost unhurt, if not entirely cleared. Charles Shaw, on the other hand, comes off pretty badly, acting like the guy who broke a deal he once benefited from, then cried foul when the spotlight turned elsewhere. Altogether, a good documentary on an astonishing and messy moment in pop culture.🔗 https://letterboxd.com/julienpierre/film/milli-vanilli/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/milli-vanilli/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-904162049#threads</id>
+    <title>Evil Under the Sun, 1982 - ★★★★</title>
+    <updated>2025-06-01T17:26:08+12:00</updated>
+    <content type="text">🎥 Evil Under the Sun, 1982
+⭐️ ★★★★
+Peter Ustinov is at his most charming as Poirot. Supporting turns from Diana Rigg, Maggie Smith, and Denis Quilley are pitch-perfect. Cole Porter soundtrack is an inspired choice, beautifully reorchestrated to match the film’s vintage glamour.🔗 https://letterboxd.com/julienpierre/film/evil-under-the-sun/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/evil-under-the-sun/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-905249660#threads</id>
+    <title>The Birdcage, 1996 - ★★★★</title>
+    <updated>2025-06-02T16:47:07+12:00</updated>
+    <content type="text">🎥 The Birdcage, 1996
+⭐️ ★★★★
+Nathan Lane is a whirlwind of emotion and timing, Robin Williams plays it with rare restraint, and Gene Hackman? Totally owning it. The atmosphere, the set design, the costumes, it’s all gloriously over-the-top but never off-key. A sparkling, sharp, and heartfelt remake that thrives on performance.🔗 https://letterboxd.com/julienpierre/film/the-birdcage/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-birdcage/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-906155391#threads</id>
+    <title>Tea and Sympathy, 1956 - ★★★</title>
+    <updated>2025-06-03T17:06:04+12:00</updated>
+    <content type="text">🎥 Tea and Sympathy, 1956
+⭐️ ★★★
+Deborah Kerr and John Kerr give sensitive, nuanced performances. While it carries that unmistakable old-fashioned atmosphere, it never quite reaches the dramatic highs of Douglas Sirk. The film runs a bit longer than necessary, and starts to stretch in places, but the strength of its story holds steady. Delicate, daring, and quietly powerful.🔗 https://letterboxd.com/julienpierre/film/tea-and-sympathy/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/tea-and-sympathy/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-906974194#threads</id>
+    <title>Victim, 1961 - ★★★★</title>
+    <updated>2025-06-04T16:28:21+12:00</updated>
+    <content type="text">🎥 Victim, 1961
+⭐️ ★★★★
+Victim is a bold, ahead-of-its-time film that tackles its subject matter head-on. Dirk Bogarde delivers a quietly devastating performance, and the supporting cast, drawn from the finest of the British stage and screen, is uniformly excellent. A powerful, essential piece of cinema resplendent in its courage and craft.🔗 https://letterboxd.com/julienpierre/film/victim/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/victim/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-907771140#threads</id>
+    <title>The Ritz, 1976 - ★★½</title>
+    <updated>2025-06-05T16:36:06+12:00</updated>
+    <content type="text">🎥 The Ritz, 1976
+⭐️ ★★½
+Silly is the word. The Ritz is chaotic, loud, and uneven, and if it weren’t for Rita Moreno’s gloriously over-the-top performance, it might not be watchable at all. She steals every scene she’s in, injecting just enough energy to keep things afloat. The film has a few genuinely funny moments, but they’re too scattered to give it real momentum. As a whole, it doesn’t quite stand on its own, but Moreno makes it worth sitting through. Just about.🔗 https://letterboxd.com/julienpierre/film/the-ritz/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-ritz/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-909676138#threads</id>
+    <title>Rebecca, 1940 - ★★★★★</title>
+    <updated>2025-06-08T02:34:10+12:00</updated>
+    <content type="text">🎥 Rebecca, 1940
+⭐️ ★★★★★
+Rebecca is arguably Hitchcock's strongest early sound-era entry. From the first eerie shots of Manderley to the final blaze, this is unmistakably Hitchcock. The film bears his fingerprints in every frame, its meticulous cutting, haunting lighting, and elegant, psychological framing.🔗 https://letterboxd.com/julienpierre/film/rebecca/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/rebecca/1/"/>
+  </entry>
 </feed>
