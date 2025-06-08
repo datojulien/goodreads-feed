@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Julien’s Letterboxd → Twitter</title>
-  <updated>2025-06-08T06:20:39Z</updated>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://letterboxd.com/julienpierre/rss/</id>
+  <title>Letterboxd → Twitter</title>
+  <updated>2025-06-08T06:25:51.809137+00:00</updated>
+  <link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/>
+  <link href="cleaned_letterboxd_twitter.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>letterboxd-review-907771140#twitter</id>
+    <title>The Ritz, 1976 - ★★½</title>
+    <updated>2025-06-05T16:36:06+12:00</updated>
+    <content type="text">🎥 The Ritz, 1976
+⭐️ ★★½
+Rita Moreno is a genuinely funny film, but it doesn’t quite stand on its own, but it’s worth sitting through.🔗 https://letterboxd.com/julienpierre/film/the-ritz/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-ritz/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-909676138#twitter</id>
+    <title>Rebecca, 1940 - ★★★★★</title>
+    <updated>2025-06-08T02:34:10+12:00</updated>
+    <content type="text">🎥 Rebecca, 1940
+⭐️ ★★★★★
+Hitchcock may have insisted Rebecca isn’t a true “Hitchcock picture,” but that claim does the film a disservice. Sure, he didn’t yet have the creative freedom he’d later enjoy, but the film bears his fingerprints in🔗 https://letterboxd.com/julienpierre/film/rebecca/1/ #FilmReview</content>
+    <link href="https://letterboxd.com/julienpierre/film/rebecca/1/"/>
+  </entry>
 </feed>
