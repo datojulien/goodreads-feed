@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-06-09T13:58:33+00:00</updated>
+  <updated>2025-06-10T07:38:04+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="/home/pi/goodreads-feed/cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1077570080-tw</id>
+    <title>Julien
+    is 60% done with A Line to Kill</title>
+    <updated>2025-06-10T00:38:04-07:00</updated>
+    <content type="text">📈 I have read 60% of “A Line to Kill” by Anthony Horowitz
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AnthonyHorowitz #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1077068065-tw</id>
     <title>Julien
     is 45% done with A Line to Kill</title>
     <updated>2025-06-09T06:58:33-07:00</updated>
     <content type="text">📈 I have read 45% of “A Line to Kill” by Anthony Horowitz
 ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  45.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AnthonyHorowitz #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1076370298-tw</id>
-    <title>Julien
-    is 36% done with A Line to Kill</title>
-    <updated>2025-06-08T00:20:39-07:00</updated>
-    <content type="text">📈 I have read 36% of “A Line to Kill” by Anthony Horowitz
-▓▓▓▓▓▓▓░░░░░░░░░░░░░  36.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #AnthonyHorowitz #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
