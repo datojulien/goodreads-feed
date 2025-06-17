@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-06-17T07:32:10+00:00</updated>
+  <updated>2025-06-17T14:24:20+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="/home/pi/goodreads-feed/cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus9557604759-tw</id>
+    <title>Julien is currently reading '"Mon petit Truffe, ma grande Scottie": Correspondance, 1960-1965'</title>
+    <updated>2025-06-17T07:24:13-07:00</updated>
+    <content type="text">🚀 Starting “"Mon petit Truffe, ma grande Scottie": Correspondance, 1960-1965” by François Truffaut
+🔗 Follow my progress: https://www.goodreads.com/review/show/7661687248
+🏷️ #FrançoisTruffaut #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7661687248"/>
+  </entry>
   <entry>
     <id>Review7629214677-tw</id>
     <title>Julien added 'A Line to Kill'</title>
