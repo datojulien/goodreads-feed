@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-06-17T14:24:20+00:00</updated>
+  <updated>2025-06-23T14:12:13+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="/home/pi/goodreads-feed/cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus9580786422-tw</id>
+    <title>Julien is currently reading 'Suspicion'</title>
+    <updated>2025-06-23T07:12:13-07:00</updated>
+    <content type="text">🚀 Starting “Suspicion” by Seichō Matsumoto
+🔗 Follow my progress: https://www.goodreads.com/review/show/7677689477
+🏷️ #SeichōMatsumoto #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7677689477"/>
+  </entry>
   <entry>
     <id>ReadStatus9557604759-tw</id>
     <title>Julien is currently reading '"Mon petit Truffe, ma grande Scottie": Correspondance, 1960-1965'</title>
@@ -27,17 +36,6 @@
 📝 "A Line to Kill is more interesting for its meta-story, the writer and his fictional detective, than for the murder itself. The mystery does keep you hooked, and the final twist is satisfying, but it’s..."
 🏷️ #AnthonyHorowitz</content>
     <link href="https://www.goodreads.com/review/show/7629214677"/>
-  </entry>
-  <entry>
-    <id>UserStatus1080320637-tw</id>
-    <title>Julien
-    is 80% done with A Line to Kill</title>
-    <updated>2025-06-15T07:01:30-07:00</updated>
-    <content type="text">📈 I have read 80% of “A Line to Kill” by Anthony Horowitz
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AnthonyHorowitz #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus9510844135-tw</id>
