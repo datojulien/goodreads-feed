@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-07-12T06:34:18+00:00</updated>
+  <updated>2025-07-12T10:22:34+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="/home/pi/cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1095330465-tw</id>
+    <title>Julien
+    is 60% done with The Lady in the Lake</title>
+    <updated>2025-07-12T03:22:34-07:00</updated>
+    <content type="text">📈 I have read 60% of “The Lady in the Lake” by Raymond Chandler
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
+🔗 Progress: https://www.goodreads.com/user_status/show/1095330465
+🏷️ #RaymondChandler #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user_status/show/1095330465"/>
+  </entry>
   <entry>
     <id>ReadStatus9656301004-tw</id>
     <title>Julien is currently reading 'The Lady in the Lake'</title>
