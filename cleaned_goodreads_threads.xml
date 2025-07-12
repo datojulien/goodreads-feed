@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-06-23T14:12:13+00:00</updated>
+  <updated>2025-07-12T03:18:45+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="/home/pi/goodreads-feed/cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus9656301004-th</id>
+    <title>Julien is currently reading 'The Lady in the Lake'</title>
+    <updated>2025-07-11T20:18:45-07:00</updated>
+    <content type="text">🚀 Starting “The Lady in the Lake” by Raymond Chandler
+🔗 Follow my progress: https://www.goodreads.com/review/show/7730735444
+🏷️ #RaymondChandler #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7730735444"/>
+  </entry>
   <entry>
     <id>ReadStatus9580786422-th</id>
     <title>Julien is currently reading 'Suspicion'</title>
@@ -54,15 +63,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7629214677
 🏷️ #AnthonyHorowitz #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7629214677"/>
-  </entry>
-  <entry>
-    <id>Review7626868384-th</id>
-    <title>Julien added 'Giovanni’s Room'</title>
-    <updated>2025-06-05T00:24:43-07:00</updated>
-    <content type="text">📚 “Giovanni’s Room” by James Baldwin
-⭐️ Rated: 4/5
-📝 "Giovanni’s Room is a sentimental love story, sometimes bordering on melodrama, but it’s Baldwin’s writing that makes it the classic it is. His flow is effortless, and his descriptions of emotions, places, and people are so precise, you truly feel like you’re in the room. The plot may not be the most remarkable, but that only highlights the strength of Baldwin’s craft. This is a novel carried entirely by voice and atmosphere, and it works beautifully. —— Giovanni’s Room est un roman sentimental,..."
-🏷️ #JamesBaldwin</content>
-    <link href="https://www.goodreads.com/review/show/7626868384"/>
   </entry>
 </feed>
