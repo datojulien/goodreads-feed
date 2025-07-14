@@ -3,7 +3,7 @@ name: Update Goodreads Feeds
 # Run every 5 minutes
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:  # allow manual trigger
 
 jobs:
