@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-07-14T13:56:26+00:00</updated>
+  <updated>2025-07-15T14:07:43+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus9670320902-th</id>
+    <title>Julien is currently reading 'No Pockets in a Shroud: A Novel'</title>
+    <updated>2025-07-15T07:07:43-07:00</updated>
+    <content type="text">🚀 Starting “No Pockets in a Shroud: A Novel” by Horace McCoy
+🔗 Follow my progress: https://www.goodreads.com/review/show/7740544828
+🏷️ #HoraceMcCoy #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7740544828"/>
+  </entry>
   <entry>
     <id>Review7730735444-th</id>
     <title>Julien added 'The Lady in the Lake'</title>
@@ -66,14 +75,5 @@
 📝 "A Line to Kill is more interesting for its meta-story, the writer and his fictional detective, than for the murder itself. The mystery does keep you hooked, and the final twist is satisfying, but it’s really the narrative of the author shadowing his own creation that drives the novel forward. A nice English murder, written by a nice English writer, starring a very nice English detective. —— A Line to Kill est plus intéressant pour sa mise en abyme, celle de l’écrivain qui suit son propre détecti..."
 🏷️ #AnthonyHorowitz</content>
     <link href="https://www.goodreads.com/review/show/7629214677"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9510844135-th</id>
-    <title>Julien started reading 'Rita Moreno: A Memoir'</title>
-    <updated>2025-06-05T01:28:19-07:00</updated>
-    <content type="text">🚀 Starting “Rita Moreno: A Memoir” by Rita Moreno
-🔗 Follow my progress: https://www.goodreads.com/review/show/2149572191
-🏷️ #RitaMoreno #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/2149572191"/>
   </entry>
 </feed>
