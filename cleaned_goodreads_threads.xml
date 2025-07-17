@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-07-15T14:07:43+00:00</updated>
+  <updated>2025-07-17T14:13:10+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1098434071-th</id>
+    <title>Julien
+    is 20% done with No Pockets in a Shroud</title>
+    <updated>2025-07-17T07:13:10-07:00</updated>
+    <content type="text">📈 I’ve read 20% of “No Pockets in a Shroud” by Horace McCoy
+▓▓▓▓░░░░░░░░░░░░░░░░  20.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #HoraceMcCoy #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus9670320902-th</id>
     <title>Julien is currently reading 'No Pockets in a Shroud: A Novel'</title>
