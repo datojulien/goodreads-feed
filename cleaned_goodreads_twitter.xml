@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-07-17T14:13:10+00:00</updated>
+  <updated>2025-07-28T14:01:33+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus9724955200-tw</id>
+    <title>Julien started reading 'The Case of the Ice-cold Hands'</title>
+    <updated>2025-07-28T07:01:33-07:00</updated>
+    <content type="text">🚀 Starting “The Case of the Ice-cold Hands” by Erle Stanley Gardner
+🔗 Follow my progress: https://www.goodreads.com/review/show/7778827146
+🏷️ #ErleStanleyGardner #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7778827146"/>
+  </entry>
   <entry>
     <id>UserStatus1098434071-tw</id>
     <title>Julien
@@ -38,17 +47,6 @@
 📝 "The Lady in the Lake is arguably Chandler’s best Marlowe novel, a top-notch mystery with a brilliantly twisted ending. But more than just the plot, it’s Chandler’s writing that elevates the book: he t..."
 🏷️ #RaymondChandler</content>
     <link href="https://www.goodreads.com/review/show/7730735444"/>
-  </entry>
-  <entry>
-    <id>UserStatus1095330465-tw</id>
-    <title>Julien
-    is 60% done with The Lady in the Lake</title>
-    <updated>2025-07-12T03:22:34-07:00</updated>
-    <content type="text">📈 I’ve read 60% of “The Lady in the Lake” by Raymond Chandler
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #RaymondChandler #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus9656301004-tw</id>
