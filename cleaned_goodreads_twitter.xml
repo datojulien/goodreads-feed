@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-08-21T13:20:26+00:00</updated>
+  <updated>2025-08-25T13:41:44+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1120869011-tw</id>
+    <title>Julien
+    is 35% done with Chinatown</title>
+    <updated>2025-08-25T06:40:51-07:00</updated>
+    <content type="text">📈 I’ve read 35% of “Chinatown” by Oh Jung-hee
+▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #OhJung-hee #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus9824128843-tw</id>
     <title>Julien is currently reading 'Chinatown'</title>
@@ -27,17 +38,6 @@
 📝 "The Case of the Ice-Cold Hands is a later entry in the Perry Mason series, but Gardner still brings the punch. What really keeps the series appealing is the dynamic between the three main characters,..."
 🏷️ #ErleStanleyGardner</content>
     <link href="https://www.goodreads.com/review/show/7778827146"/>
-  </entry>
-  <entry>
-    <id>UserStatus1106176824-tw</id>
-    <title>Julien
-    is 83% done with The Case of the Ice-cold</title>
-    <updated>2025-07-30T06:53:19-07:00</updated>
-    <content type="text">📈 I’ve read 83% of “The Case of the Ice-cold Hands” by Erle Stanley Gardner
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  83.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ErleStanleyGardner #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus9724955200-tw</id>
@@ -84,14 +84,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7677689477
 🏷️ #SeichōMatsumoto #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7677689477"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9557604759-tw</id>
-    <title>Julien is currently reading '"Mon petit Truffe, ma grande Scottie": Correspondance, 1960-1965'</title>
-    <updated>2025-06-17T07:24:13-07:00</updated>
-    <content type="text">🚀 Starting “"Mon petit Truffe, ma grande Scottie": Correspondance, 1960-1965” by François Truffaut
-🔗 Follow my progress: https://www.goodreads.com/review/show/7661687248
-🏷️ #FrançoisTruffaut #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7661687248"/>
   </entry>
 </feed>
