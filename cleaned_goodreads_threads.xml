@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-08-25T13:41:44+00:00</updated>
+  <updated>2025-09-11T12:59:02+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review7906880603-th</id>
+    <title>Julien added 'Eye of the Needle'</title>
+    <updated>2025-09-11T05:59:02-07:00</updated>
+    <content type="text">📚 “Eye of the Needle” by Ken Follett
+⭐️ Rated: 3/5
+📝 "Eye of the Needle takes a while to get going, about halfway through, the suspense really kicks in, but once it does, it’s an effective and gripping spy thriller. The interwoven narratives slowly build tension, leading to a frantic and rewarding conclusion. its structure and pacing ultimately deliver a solid Second World War-era tale of espionage and survival. —— Eye of the Needle met du temps à vraiment démarrer,ce n’est qu’à mi-parcours que le suspense prend de l’ampleur, mais une fois lancé, c..."
+🏷️ #KenFollett</content>
+    <link href="https://www.goodreads.com/review/show/7906880603"/>
+  </entry>
   <entry>
     <id>UserStatus1120869011-th</id>
     <title>Julien
@@ -75,14 +85,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7730735444
 🏷️ #RaymondChandler #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7730735444"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9580786422-th</id>
-    <title>Julien is currently reading 'Suspicion'</title>
-    <updated>2025-06-23T07:12:13-07:00</updated>
-    <content type="text">🚀 Starting “Suspicion” by Seichō Matsumoto
-🔗 Follow my progress: https://www.goodreads.com/review/show/7677689477
-🏷️ #SeichōMatsumoto #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7677689477"/>
   </entry>
 </feed>
