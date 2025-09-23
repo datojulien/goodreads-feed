@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-09-11T12:59:02+00:00</updated>
+  <updated>2025-09-23T13:39:43+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1135548304-tw</id>
+    <title>Julien
+    is 30% done with The Making of Casablanca</title>
+    <updated>2025-09-23T06:39:43-07:00</updated>
+    <content type="text">📈 I’ve read 30% of “The Making of Casablanca” by Aljean Harmetz
+▓▓▓▓▓▓░░░░░░░░░░░░░░  30.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AljeanHarmetz #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus9949047825-tw</id>
+    <title>Julien is currently reading 'The Making of Casablanca: Bogart, Bergman, and World War II'</title>
+    <updated>2025-09-23T06:39:17-07:00</updated>
+    <content type="text">🚀 Starting “The Making of Casablanca: Bogart, Bergman, and World War II” by Aljean Harmetz
+🔗 Follow my progress: https://www.goodreads.com/review/show/7937581397
+🏷️ #AljeanHarmetz #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/7937581397"/>
+  </entry>
   <entry>
     <id>Review7906880603-tw</id>
     <title>Julien added 'Eye of the Needle'</title>
@@ -66,24 +86,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7740544828
 🏷️ #HoraceMcCoy #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7740544828"/>
-  </entry>
-  <entry>
-    <id>Review7730735444-tw</id>
-    <title>Julien added 'The Lady in the Lake'</title>
-    <updated>2025-07-14T06:56:26-07:00</updated>
-    <content type="text">📚 “The Lady in the Lake” by Raymond Chandler
-⭐️ Rated: 5/5
-📝 "The Lady in the Lake is arguably Chandler’s best Marlowe novel, a top-notch mystery with a brilliantly twisted ending. But more than just the plot, it’s Chandler’s writing that elevates the book: he t..."
-🏷️ #RaymondChandler</content>
-    <link href="https://www.goodreads.com/review/show/7730735444"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9656301004-tw</id>
-    <title>Julien is currently reading 'The Lady in the Lake'</title>
-    <updated>2025-07-11T20:18:45-07:00</updated>
-    <content type="text">🚀 Starting “The Lady in the Lake” by Raymond Chandler
-🔗 Follow my progress: https://www.goodreads.com/review/show/7730735444
-🏷️ #RaymondChandler #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7730735444"/>
   </entry>
 </feed>
