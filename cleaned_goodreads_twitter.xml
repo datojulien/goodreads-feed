@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-09-23T13:39:43+00:00</updated>
+  <updated>2025-09-29T14:03:48+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1138472965-tw</id>
+    <title>Julien
+    is 75% done with The Making of Casablanca</title>
+    <updated>2025-09-29T07:03:48-07:00</updated>
+    <content type="text">📈 I’ve read 75% of “The Making of Casablanca” by Aljean Harmetz
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AljeanHarmetz #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1135548304-tw</id>
     <title>Julien
@@ -38,17 +49,6 @@
 📝 "Eye of the Needle takes a while to get going, about halfway through, the suspense really kicks in, but once it does, it’s an effective and gripping spy thriller. The interwoven narratives slowly build..."
 🏷️ #KenFollett</content>
     <link href="https://www.goodreads.com/review/show/7906880603"/>
-  </entry>
-  <entry>
-    <id>UserStatus1120869011-tw</id>
-    <title>Julien
-    is 35% done with Chinatown</title>
-    <updated>2025-08-25T06:40:51-07:00</updated>
-    <content type="text">📈 I’ve read 35% of “Chinatown” by Oh Jung-hee
-▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #OhJung-hee #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus9824128843-tw</id>
