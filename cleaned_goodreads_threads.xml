@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-09-29T14:03:48+00:00</updated>
+  <updated>2025-10-02T00:46:46+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,33 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1139781933-th</id>
+    <title>Julien
+    is 90% done with The Making of Casablanca</title>
+    <updated>2025-10-01T17:46:46-07:00</updated>
+    <content type="text">📈 I’ve read 90% of “The Making of Casablanca” by Aljean Harmetz
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AljeanHarmetz #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>Review7281831897-th</id>
+    <title>Julien added 'Malayland'</title>
+    <updated>2025-10-01T17:44:32-07:00</updated>
+    <content type="text">📚 “Malayland” by Dina Zaman
+⭐️ Rated: 2/5
+📝 "Malayland is an interesting book in theory, but in practice, it often feels like a long reading list disguised as an argument. At just 147 pages, it should be a concise, engaging exploration of Malaysia’s cultural and political identity, but instead, it’s packed with over a hundred footnotes, constantly pointing the reader to other books and studies rather than developing its own ideas. Dina Zaman is clearly well-read, and she makes sure you know it. Throughout the book, there’s a strong sense t..."
+🏷️ #DinaZaman</content>
+    <link href="https://www.goodreads.com/review/show/7281831897"/>
+  </entry>
+  <entry>
     <id>UserStatus1138472965-th</id>
     <title>Julien
     is 75% done with The Making of Casablanca</title>
     <updated>2025-09-29T07:03:48-07:00</updated>
     <content type="text">📈 I’ve read 75% of “The Making of Casablanca” by Aljean Harmetz
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AljeanHarmetz #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1135548304-th</id>
-    <title>Julien
-    is 30% done with The Making of Casablanca</title>
-    <updated>2025-09-23T06:39:43-07:00</updated>
-    <content type="text">📈 I’ve read 30% of “The Making of Casablanca” by Aljean Harmetz
-▓▓▓▓▓▓░░░░░░░░░░░░░░  30.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #AljeanHarmetz #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -77,14 +87,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7778827146
 🏷️ #ErleStanleyGardner #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7778827146"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9670320902-th</id>
-    <title>Julien is currently reading 'No Pockets in a Shroud: A Novel'</title>
-    <updated>2025-07-15T07:07:43-07:00</updated>
-    <content type="text">🚀 Starting “No Pockets in a Shroud: A Novel” by Horace McCoy
-🔗 Follow my progress: https://www.goodreads.com/review/show/7740544828
-🏷️ #HoraceMcCoy #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7740544828"/>
   </entry>
 </feed>
