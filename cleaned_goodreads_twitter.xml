@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-10-09T14:10:10+00:00</updated>
+  <updated>2025-10-22T13:00:39+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10054602959-tw</id>
+    <title>Julien is currently reading 'What's with Baum?'</title>
+    <updated>2025-10-22T06:00:39-07:00</updated>
+    <content type="text">🚀 Starting “What's with Baum?” by Woody Allen
+🔗 Follow my progress: https://www.goodreads.com/review/show/8011984574
+🏷️ #WoodyAllen #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8011984574"/>
+  </entry>
   <entry>
     <id>ReadStatus10008282140-tw</id>
     <title>Julien is currently reading 'The Mask of Dimitrios'</title>
@@ -76,15 +85,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7848856640
 🏷️ #OhJung-hee #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7848856640"/>
-  </entry>
-  <entry>
-    <id>Review7778827146-tw</id>
-    <title>Julien added 'The Case of the Ice-cold Hands'</title>
-    <updated>2025-07-31T07:24:06-07:00</updated>
-    <content type="text">📚 “The Case of the Ice-cold Hands” by Erle Stanley Gardner
-⭐️ Rated: 3/5
-📝 "The Case of the Ice-Cold Hands is a later entry in the Perry Mason series, but Gardner still brings the punch. What really keeps the series appealing is the dynamic between the three main characters,..."
-🏷️ #ErleStanleyGardner</content>
-    <link href="https://www.goodreads.com/review/show/7778827146"/>
   </entry>
 </feed>
