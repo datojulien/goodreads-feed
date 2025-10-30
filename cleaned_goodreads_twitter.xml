@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2025-10-22T13:00:39+00:00</updated>
+  <updated>2025-10-30T08:29:37+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1153602922-tw</id>
+    <title>Julien
+    is 50% done with What's with Baum?</title>
+    <updated>2025-10-30T01:29:37-07:00</updated>
+    <content type="text">📈 I’ve read 50% of “What's with Baum?” by Woody Allen
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #WoodyAllen #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus10054602959-tw</id>
     <title>Julien is currently reading 'What's with Baum?'</title>
@@ -76,14 +87,5 @@
 📝 "Eye of the Needle takes a while to get going, about halfway through, the suspense really kicks in, but once it does, it’s an effective and gripping spy thriller. The interwoven narratives slowly build..."
 🏷️ #KenFollett</content>
     <link href="https://www.goodreads.com/review/show/7906880603"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9824128843-tw</id>
-    <title>Julien is currently reading 'Chinatown'</title>
-    <updated>2025-08-21T06:20:26-07:00</updated>
-    <content type="text">🚀 Starting “Chinatown” by Oh Jung-hee
-🔗 Follow my progress: https://www.goodreads.com/review/show/7848856640
-🏷️ #OhJung-hee #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7848856640"/>
   </entry>
 </feed>
