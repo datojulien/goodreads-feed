@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2025-11-05T17:26:46+00:00</updated>
+  <updated>2026-01-05T13:52:10+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10355534010-th</id>
+    <title>Julien is currently reading 'L'amour'</title>
+    <updated>2026-01-05T13:52:10+00:00</updated>
+    <content type="text">🚀 Starting “L'amour” by François Bégaudeau
+🔗 Follow my progress: https://www.goodreads.com/review/show/8226264509
+🏷️ #FranoisBgaudeau #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8226264509"/>
+  </entry>
   <entry>
     <id>UserStatus1153602922-th</id>
     <title>Julien
