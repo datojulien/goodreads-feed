@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-01-10T14:10:39+00:00</updated>
+  <updated>2026-01-17T02:22:07+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8226264509-tw</id>
+    <title>Julien added 'L'amour'</title>
+    <updated>2026-01-17T02:22:07+00:00</updated>
+    <content type="text">📚 “L'amour” by François Bégaudeau
+⭐️ Rated: 4/5
+🏷️ #FranoisBgaudeau</content>
+    <link href="https://www.goodreads.com/review/show/8226264509"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10415579711-tw</id>
+    <title>Julien is currently reading 'La collision'</title>
+    <updated>2026-01-17T02:21:51+00:00</updated>
+    <content type="text">🚀 Starting “La collision” by Paul Gasnier
+🔗 Follow my progress: https://www.goodreads.com/review/show/8269732635
+🏷️ #PaulGasnier #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8269732635"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10415578777-tw</id>
+    <title>Julien finished reading 'L'amour'</title>
+    <updated>2026-01-17T02:21:36+00:00</updated>
+    <content type="text">📘 Finished “L'amour” by François Bégaudeau
+🔗 https://www.goodreads.com/review/show/8226264509
+🏷️ #FranoisBgaudeau</content>
+    <link href="https://www.goodreads.com/review/show/8226264509"/>
+  </entry>
   <entry>
     <id>UserStatus1191393576-tw</id>
     <title>Julien
@@ -28,17 +55,6 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8226264509
 🏷️ #FranoisBgaudeau #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8226264509"/>
-  </entry>
-  <entry>
-    <id>UserStatus1153602922-tw</id>
-    <title>Julien
-    is 50% done with What's with Baum?</title>
-    <updated>2025-10-30T08:29:37+00:00</updated>
-    <content type="text">📈 I’ve read 50% of “What's with Baum?” by Woody Allen
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #WoodyAllen #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10054602959-tw</id>
@@ -77,24 +93,5 @@
 📝 "Malayland is an interesting book in theory, but in practice, it often feels like a long reading list disguised as an argument. At just 147 pages, it should be a concise, engaging exploration of Malays..."
 🏷️ #DinaZaman</content>
     <link href="https://www.goodreads.com/review/show/7281831897"/>
-  </entry>
-  <entry>
-    <id>ReadStatus9949047825-tw</id>
-    <title>Julien is currently reading 'The Making of Casablanca: Bogart, Bergman, and World War II'</title>
-    <updated>2025-09-23T13:39:17+00:00</updated>
-    <content type="text">🚀 Starting “The Making of Casablanca: Bogart, Bergman, and World War II” by Aljean Harmetz
-🔗 Follow my progress: https://www.goodreads.com/review/show/7937581397
-🏷️ #AljeanHarmetz #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/7937581397"/>
-  </entry>
-  <entry>
-    <id>Review7906880603-tw</id>
-    <title>Julien added 'Eye of the Needle'</title>
-    <updated>2025-09-11T12:59:02+00:00</updated>
-    <content type="text">📚 “Eye of the Needle” by Ken Follett
-⭐️ Rated: 3/5
-📝 "Eye of the Needle takes a while to get going, about halfway through, the suspense really kicks in, but once it does, it’s an effective and gripping spy thriller. The interwoven narratives slowly build..."
-🏷️ #KenFollett</content>
-    <link href="https://www.goodreads.com/review/show/7906880603"/>
   </entry>
 </feed>
