@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-01-17T02:22:07+00:00</updated>
+  <updated>2026-01-18T07:54:04+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1197286230-th</id>
+    <title>Julien
+    is 65% done with La collision</title>
+    <updated>2026-01-18T07:54:04+00:00</updated>
+    <content type="text">📈 I’ve read 65% of “La collision” by Paul Gasnier
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #PaulGasnier #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>Review8226264509-th</id>
     <title>Julien added 'L'amour'</title>
@@ -83,15 +94,5 @@
 📝 "How do you write a making-of book about one of the greatest films of all time when, famously, nothing chaotic ever happened on set? You write its biography instead. Aljean Harmetz has crafted a captivating and thoroughly researched work, not just about the making of Casablanca, but about the people who made it happen. From the producer to the set designer, the sound recordist to the costume team, and of course the director and actors, every layer is explored in depth. The book is filled with ins..."
 🏷️ #AljeanHarmetz</content>
     <link href="https://www.goodreads.com/review/show/7937581397"/>
-  </entry>
-  <entry>
-    <id>Review7281831897-th</id>
-    <title>Julien added 'Malayland'</title>
-    <updated>2025-10-02T00:44:32+00:00</updated>
-    <content type="text">📚 “Malayland” by Dina Zaman
-⭐️ Rated: 2/5
-📝 "Malayland is an interesting book in theory, but in practice, it often feels like a long reading list disguised as an argument. At just 147 pages, it should be a concise, engaging exploration of Malaysia’s cultural and political identity, but instead, it’s packed with over a hundred footnotes, constantly pointing the reader to other books and studies rather than developing its own ideas. Dina Zaman is clearly well-read, and she makes sure you know it. Throughout the book, there’s a strong sense t..."
-🏷️ #DinaZaman</content>
-    <link href="https://www.goodreads.com/review/show/7281831897"/>
   </entry>
 </feed>
