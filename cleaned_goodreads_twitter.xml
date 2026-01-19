@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-01-18T07:54:04+00:00</updated>
+  <updated>2026-01-19T15:03:43+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,15 +10,33 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>UserStatus1197286230-tw</id>
+    <id>Review8269732635-tw</id>
+    <title>Julien added 'La collision'</title>
+    <updated>2026-01-19T15:03:43+00:00</updated>
+    <content type="text">📚 “La collision” by Paul Gasnier
+⭐️ Rated: 4/5
+🏷️ #PaulGasnier</content>
+    <link href="https://www.goodreads.com/review/show/8269732635"/>
+  </entry>
+  <entry>
+    <id>UserStatus1198240284-tw</id>
     <title>Julien
-    is 65% done with La collision</title>
-    <updated>2026-01-18T07:54:04+00:00</updated>
-    <content type="text">📈 I’ve read 65% of “La collision” by Paul Gasnier
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
+    is 35% done with Vagabond</title>
+    <updated>2026-01-19T15:03:00+00:00</updated>
+    <content type="text">📈 I’ve read 35% of “Vagabond” by Tim Curry
+▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #PaulGasnier #ReadingProgress</content>
+🏷️ #TimCurry #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10427599029-tw</id>
+    <title>Julien is currently reading 'Vagabond: A Memoir'</title>
+    <updated>2026-01-19T15:02:54+00:00</updated>
+    <content type="text">🚀 Starting “Vagabond: A Memoir” by Tim Curry
+🔗 Follow my progress: https://www.goodreads.com/review/show/8278283809
+🏷️ #TimCurry #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8278283809"/>
   </entry>
   <entry>
     <id>Review8226264509-tw</id>
@@ -48,17 +66,6 @@
     <link href="https://www.goodreads.com/review/show/8226264509"/>
   </entry>
   <entry>
-    <id>UserStatus1191393576-tw</id>
-    <title>Julien
-    is 50% done with L'amour</title>
-    <updated>2026-01-10T14:10:39+00:00</updated>
-    <content type="text">📈 I’ve read 50% of “L'amour” by François Bégaudeau
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #FranoisBgaudeau #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
     <id>ReadStatus10355534010-tw</id>
     <title>Julien is currently reading 'L'amour'</title>
     <updated>2026-01-05T13:52:10+00:00</updated>
@@ -84,15 +91,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/7979525876
 🏷️ #EricAmbler #NowReading</content>
     <link href="https://www.goodreads.com/review/show/7979525876"/>
-  </entry>
-  <entry>
-    <id>Review7937581397-tw</id>
-    <title>Julien added 'The Making of Casablanca: Bogart, Bergman, and World War II'</title>
-    <updated>2025-10-02T13:52:54+00:00</updated>
-    <content type="text">📚 “The Making of Casablanca: Bogart, Bergman, and World War II” by Aljean Harmetz
-⭐️ Rated: 4/5
-📝 "How do you write a making-of book about one of the greatest films of all time when, famously, nothing chaotic ever happened on set? You write its biography instead. Aljean Harmetz has crafted a captiv..."
-🏷️ #AljeanHarmetz</content>
-    <link href="https://www.goodreads.com/review/show/7937581397"/>
   </entry>
 </feed>
