@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-01-20T10:31:02+00:00</updated>
+  <updated>2026-01-21T13:25:24+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8278283809-th</id>
+    <title>Julien added 'Vagabond: A Memoir'</title>
+    <updated>2026-01-21T13:25:24+00:00</updated>
+    <content type="text">📚 “Vagabond: A Memoir” by Tim Curry
+⭐️ Rated: 4/5
+📝 "In Vagabond, Tim Curry doesn’t recount how he lived his life, but how he felt it. This isn’t a tell-all memoir, it’s more like an autobiography of sensation, emotion, and instinct. It reads as a reflection on the experience of being, not just doing. While he touches on all his major roles, on stage and screen, it never feels like a typical behind-the-scenes account. Instead, it’s an intimate meditation on performance, presence, and resilience. A quiet but powerful masterclass in acting and self-..."
+🏷️ #TimCurry</content>
+    <link href="https://www.goodreads.com/review/show/8278283809"/>
+  </entry>
   <entry>
     <id>UserStatus1198958115-th</id>
     <title>Julien
@@ -28,17 +38,6 @@
 ⭐️ Rated: 4/5
 🏷️ #PaulGasnier</content>
     <link href="https://www.goodreads.com/review/show/8269732635"/>
-  </entry>
-  <entry>
-    <id>UserStatus1198240284-th</id>
-    <title>Julien
-    is 35% done with Vagabond</title>
-    <updated>2026-01-19T15:03:00+00:00</updated>
-    <content type="text">📈 I’ve read 35% of “Vagabond” by Tim Curry
-▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #TimCurry #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10427599029-th</id>
