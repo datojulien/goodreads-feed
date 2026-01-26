@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-01-21T13:25:24+00:00</updated>
+  <updated>2026-01-26T08:14:56+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1203253830-th</id>
+    <title>Julien
+    is 70% done with Blood Orange</title>
+    <updated>2026-01-26T08:14:56+00:00</updated>
+    <content type="text">📈 I’ve read 70% of “Blood Orange” by Harriet Tyce
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  70.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #HarrietTyce #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10459761506-th</id>
+    <title>Julien is currently reading 'Blood Orange'</title>
+    <updated>2026-01-26T08:14:50+00:00</updated>
+    <content type="text">🚀 Starting “Blood Orange” by Harriet Tyce
+🔗 Follow my progress: https://www.goodreads.com/review/show/8301000664
+🏷️ #HarrietTyce #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8301000664"/>
+  </entry>
   <entry>
     <id>Review8278283809-th</id>
     <title>Julien added 'Vagabond'</title>
@@ -74,23 +94,5 @@
 🔗 https://www.goodreads.com/review/show/8226264509
 🏷️ #FranoisBgaudeau</content>
     <link href="https://www.goodreads.com/review/show/8226264509"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10355534010-th</id>
-    <title>Julien is currently reading 'L'amour'</title>
-    <updated>2026-01-05T13:52:10+00:00</updated>
-    <content type="text">🚀 Starting “L'amour” by François Bégaudeau
-🔗 Follow my progress: https://www.goodreads.com/review/show/8226264509
-🏷️ #FranoisBgaudeau #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8226264509"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10054602959-th</id>
-    <title>Julien is currently reading 'What's with Baum?'</title>
-    <updated>2025-10-22T13:00:39+00:00</updated>
-    <content type="text">🚀 Starting “What's with Baum?” by Woody Allen
-🔗 Follow my progress: https://www.goodreads.com/review/show/8011984574
-🏷️ #WoodyAllen #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8011984574"/>
   </entry>
 </feed>
