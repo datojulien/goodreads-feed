@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-01-26T14:28:21+00:00</updated>
+  <updated>2026-01-27T14:47:24+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10465550141-tw</id>
+    <title>Julien is currently reading 'The Case of the Amorous Aunt'</title>
+    <updated>2026-01-27T14:47:24+00:00</updated>
+    <content type="text">🚀 Starting “The Case of the Amorous Aunt” by Erle Stanley Gardner
+🔗 Follow my progress: https://www.goodreads.com/review/show/8305104997
+🏷️ #ErleStanleyGardner #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8305104997"/>
+  </entry>
   <entry>
     <id>Review8301000664-tw</id>
     <title>Julien added 'Blood Orange'</title>
@@ -82,15 +91,6 @@
     <content type="text">📘 Finished “L'amour” by François Bégaudeau
 🔗 https://www.goodreads.com/review/show/8226264509
 🏷️ #FranoisBgaudeau</content>
-    <link href="https://www.goodreads.com/review/show/8226264509"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10355534010-tw</id>
-    <title>Julien is currently reading 'L'amour'</title>
-    <updated>2026-01-05T13:52:10+00:00</updated>
-    <content type="text">🚀 Starting “L'amour” by François Bégaudeau
-🔗 Follow my progress: https://www.goodreads.com/review/show/8226264509
-🏷️ #FranoisBgaudeau #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8226264509"/>
   </entry>
 </feed>
