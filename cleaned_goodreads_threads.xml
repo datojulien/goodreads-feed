@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-01-29T03:44:36+00:00</updated>
+  <updated>2026-01-29T14:41:59+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,30 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>ReadStatus10474649414-th</id>
+    <title>Julien started reading 'The Body in the Library'</title>
+    <updated>2026-01-29T14:41:59+00:00</updated>
+    <content type="text">🚀 Starting “The Body in the Library” by Agatha Christie
+🔗 Follow my progress: https://www.goodreads.com/review/show/466073601
+🏷️ #AgathaChristie #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/466073601"/>
+  </entry>
+  <entry>
+    <id>Review8305104997-th</id>
+    <title>Julien added 'The Case of the Amorous Aunt'</title>
+    <updated>2026-01-29T13:33:01+00:00</updated>
+    <content type="text">📚 “The Case of the Amorous Aunt” by Erle Stanley Gardner
+⭐️ Rated: 4/5
+🏷️ #ErleStanleyGardner</content>
+    <link href="https://www.goodreads.com/review/show/8305104997"/>
+  </entry>
+  <entry>
     <id>UserStatus1205426897-th</id>
     <title>Julien
     is 65% done with The Case of the Amorous A</title>
     <updated>2026-01-29T03:44:36+00:00</updated>
     <content type="text">📈 I’ve read 65% of “The Case of the Amorous Aunt” by Erle Stanley Gardner
 ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ErleStanleyGardner #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1204924821-th</id>
-    <title>Julien
-    is 50% done with The Case of the Amorous A</title>
-    <updated>2026-01-28T13:39:21+00:00</updated>
-    <content type="text">📈 I’ve read 50% of “The Case of the Amorous Aunt” by Erle Stanley Gardner
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #ErleStanleyGardner #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -94,14 +101,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8269732635
 🏷️ #PaulGasnier #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8269732635"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10415578777-th</id>
-    <title>Julien finished reading 'L'amour'</title>
-    <updated>2026-01-17T02:21:36+00:00</updated>
-    <content type="text">📘 Finished “L'amour” by François Bégaudeau
-🔗 https://www.goodreads.com/review/show/8226264509
-🏷️ #FranoisBgaudeau</content>
-    <link href="https://www.goodreads.com/review/show/8226264509"/>
   </entry>
 </feed>
