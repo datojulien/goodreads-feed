@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-01-28T13:39:21+00:00</updated>
+  <updated>2026-01-29T03:44:36+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1205426897-tw</id>
+    <title>Julien
+    is 65% done with The Case of the Amorous A</title>
+    <updated>2026-01-29T03:44:36+00:00</updated>
+    <content type="text">📈 I’ve read 65% of “The Case of the Amorous Aunt” by Erle Stanley Gardner
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ErleStanleyGardner #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1204924821-tw</id>
     <title>Julien
@@ -37,17 +48,6 @@
 ⭐️ Rated: 3/5
 🏷️ #HarrietTyce</content>
     <link href="https://www.goodreads.com/review/show/8301000664"/>
-  </entry>
-  <entry>
-    <id>UserStatus1203253830-tw</id>
-    <title>Julien
-    is 70% done with Blood Orange</title>
-    <updated>2026-01-26T08:14:56+00:00</updated>
-    <content type="text">📈 I’ve read 70% of “Blood Orange” by Harriet Tyce
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  70.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #HarrietTyce #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>Review8278283809-tw</id>
