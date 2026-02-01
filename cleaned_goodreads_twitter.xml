@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-01-29T14:41:59+00:00</updated>
+  <updated>2026-02-01T02:40:14+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1207276097-tw</id>
+    <title>Julien
+    is 42% done with The Body in the Library</title>
+    <updated>2026-02-01T02:40:14+00:00</updated>
+    <content type="text">📈 I’ve read 42% of “The Body in the Library” by Agatha Christie
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░  42.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AgathaChristie #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus10474649414-tw</id>
     <title>Julien started reading 'The Body in the Library'</title>
@@ -92,14 +103,5 @@
 ⭐️ Rated: 4/5
 🏷️ #FranoisBgaudeau</content>
     <link href="https://www.goodreads.com/review/show/8226264509"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10415579711-tw</id>
-    <title>Julien is currently reading 'La collision'</title>
-    <updated>2026-01-17T02:21:51+00:00</updated>
-    <content type="text">🚀 Starting “La collision” by Paul Gasnier
-🔗 Follow my progress: https://www.goodreads.com/review/show/8269732635
-🏷️ #PaulGasnier #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8269732635"/>
   </entry>
 </feed>
