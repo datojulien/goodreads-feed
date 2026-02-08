@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-01T02:40:14+00:00</updated>
+  <updated>2026-02-08T14:01:44+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review466073601-th</id>
+    <title>Julien added 'The Body in the Library'</title>
+    <updated>2026-02-08T14:01:44+00:00</updated>
+    <content type="text">📚 “The Body in the Library” by Agatha Christie
+⭐️ Rated: 2/5
+📝 "I’ve always found Miss Marple stories a bit slow, and The Body in the Library is no exception. The pacing drags, and the sheer number of characters makes it easy to lose track of who’s who. That said, there’s no denying the cleverness of the plot. The final reveal is definitely worth it, if a little contrived. What should feel like a brisk, satisfying read ends up getting bogged down in confusion. —— J’ai toujours trouvé les enquêtes de Miss Marple un peu lentes, et Un cadavre dans le bibliothèq..."
+🏷️ #AgathaChristie</content>
+    <link href="https://www.goodreads.com/review/show/466073601"/>
+  </entry>
   <entry>
     <id>UserStatus1207276097-th</id>
     <title>Julien
@@ -37,17 +47,6 @@
 ⭐️ Rated: 4/5
 🏷️ #ErleStanleyGardner</content>
     <link href="https://www.goodreads.com/review/show/8305104997"/>
-  </entry>
-  <entry>
-    <id>UserStatus1205426897-th</id>
-    <title>Julien
-    is 65% done with The Case of the Amorous A</title>
-    <updated>2026-01-29T03:44:36+00:00</updated>
-    <content type="text">📈 I’ve read 65% of “The Case of the Amorous Aunt” by Erle Stanley Gardner
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ErleStanleyGardner #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10465550141-th</id>
