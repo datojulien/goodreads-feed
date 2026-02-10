@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-02-09T08:56:03+00:00</updated>
+  <updated>2026-02-10T07:51:20+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8344131863-tw</id>
+    <title>Julien added 'Bristol'</title>
+    <updated>2026-02-10T07:51:20+00:00</updated>
+    <content type="text">📚 “Bristol” by Jean Echenoz
+⭐️ Rated: 4/5
+📝 "Echenoz est en excellente forme avec Bristol, un court récit-fleuve où plusieurs personnages se croisent, se perdent et se retrouvent sans forcément avoir grand-chose en commun. Le roman est ponctué d..."
+🏷️ #JeanEchenoz</content>
+    <link href="https://www.goodreads.com/review/show/8344131863"/>
+  </entry>
   <entry>
     <id>UserStatus1212798051-tw</id>
     <title>Julien
@@ -21,15 +31,6 @@
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
-    <id>ReadStatus10520987125-tw</id>
-    <title>Julien is currently reading 'Bristol'</title>
-    <updated>2026-02-09T08:55:58+00:00</updated>
-    <content type="text">🚀 Starting “Bristol” by Jean Echenoz
-🔗 Follow my progress: https://www.goodreads.com/review/show/8344131863
-🏷️ #JeanEchenoz #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8344131863"/>
-  </entry>
-  <entry>
     <id>Review466073601-tw</id>
     <title>Julien added 'The Body in the Library'</title>
     <updated>2026-02-08T14:01:44+00:00</updated>
@@ -38,17 +39,6 @@
 📝 "I’ve always found Miss Marple stories a bit slow, and The Body in the Library is no exception. The pacing drags, and the sheer number of characters makes it easy to lose track of who’s who. That said,..."
 🏷️ #AgathaChristie</content>
     <link href="https://www.goodreads.com/review/show/466073601"/>
-  </entry>
-  <entry>
-    <id>UserStatus1207276097-tw</id>
-    <title>Julien
-    is 42% done with The Body in the Library</title>
-    <updated>2026-02-01T02:40:14+00:00</updated>
-    <content type="text">📈 I’ve read 42% of “The Body in the Library” by Agatha Christie
-▓▓▓▓▓▓▓▓░░░░░░░░░░░░  42.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AgathaChristie #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10474649414-tw</id>
@@ -104,5 +94,14 @@
 ⭐️ Rated: 4/5
 🏷️ #PaulGasnier</content>
     <link href="https://www.goodreads.com/review/show/8269732635"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10427599029-tw</id>
+    <title>Julien is currently reading 'Vagabond'</title>
+    <updated>2026-01-19T15:02:54+00:00</updated>
+    <content type="text">🚀 Starting “Vagabond” by Tim Curry
+🔗 Follow my progress: https://www.goodreads.com/review/show/8278283809
+🏷️ #TimCurry #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8278283809"/>
   </entry>
 </feed>
