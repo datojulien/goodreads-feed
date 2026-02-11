@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-02-10T07:51:20+00:00</updated>
+  <updated>2026-02-11T07:19:28+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10528850401-tw</id>
+    <title>Julien is currently reading 'Le Petit Homme d'Arkhangelsk'</title>
+    <updated>2026-02-11T07:19:28+00:00</updated>
+    <content type="text">🚀 Starting “Le Petit Homme d'Arkhangelsk” by Georges Simenon
+🔗 Follow my progress: https://www.goodreads.com/review/show/8349606615
+🏷️ #GeorgesSimenon #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8349606615"/>
+  </entry>
   <entry>
     <id>Review8344131863-tw</id>
     <title>Julien added 'Bristol'</title>
@@ -94,14 +103,5 @@
 ⭐️ Rated: 4/5
 🏷️ #PaulGasnier</content>
     <link href="https://www.goodreads.com/review/show/8269732635"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10427599029-tw</id>
-    <title>Julien is currently reading 'Vagabond'</title>
-    <updated>2026-01-19T15:02:54+00:00</updated>
-    <content type="text">🚀 Starting “Vagabond” by Tim Curry
-🔗 Follow my progress: https://www.goodreads.com/review/show/8278283809
-🏷️ #TimCurry #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8278283809"/>
   </entry>
 </feed>
