@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-18T16:55:19+00:00</updated>
+  <updated>2026-02-19T00:26:02+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10560032797-th</id>
+    <title>Julien is currently reading 'Tant mieux'</title>
+    <updated>2026-02-19T00:26:02+00:00</updated>
+    <content type="text">🚀 Starting “Tant mieux” by Amélie Nothomb
+🔗 Follow my progress: https://www.goodreads.com/review/show/8371356204
+🏷️ #AmlieNothomb #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8371356204"/>
+  </entry>
   <entry>
     <id>Review8370179669-th</id>
     <title>Julien added 'Joan Crawford: A Woman's Face'</title>
@@ -93,15 +102,6 @@
     <content type="text">📚 “The Case of the Amorous Aunt” by Erle Stanley Gardner
 ⭐️ Rated: 4/5
 🏷️ #ErleStanleyGardner</content>
-    <link href="https://www.goodreads.com/review/show/8305104997"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10465550141-th</id>
-    <title>Julien is currently reading 'The Case of the Amorous Aunt'</title>
-    <updated>2026-01-27T14:47:24+00:00</updated>
-    <content type="text">🚀 Starting “The Case of the Amorous Aunt” by Erle Stanley Gardner
-🔗 Follow my progress: https://www.goodreads.com/review/show/8305104997
-🏷️ #ErleStanleyGardner #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8305104997"/>
   </entry>
 </feed>
