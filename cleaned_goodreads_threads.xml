@@ -2,13 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-20T09:44:46+00:00</updated>
+  <updated>2026-02-22T14:28:25+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1221062955-th</id>
+    <title>Julien
+    is 10% done with The Accidental Woman</title>
+    <updated>2026-02-22T14:28:25+00:00</updated>
+    <content type="text">📈 I’ve read 10% of “The Accidental Woman” by Jonathan Coe
+▓▓░░░░░░░░░░░░░░░░░░  10.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #JonathanCoe #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10573983398-th</id>
+    <title>Julien is currently reading 'The Accidental Woman'</title>
+    <updated>2026-02-22T14:28:11+00:00</updated>
+    <content type="text">🚀 Starting “The Accidental Woman” by Jonathan Coe
+🔗 Follow my progress: https://www.goodreads.com/review/show/8381048646
+🏷️ #JonathanCoe #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8381048646"/>
+  </entry>
+  <entry>
+    <id>Review8371356204-th</id>
+    <title>Julien added 'Tant mieux'</title>
+    <updated>2026-02-22T14:26:27+00:00</updated>
+    <content type="text">📚 “Tant mieux” by Amélie Nothomb
+⭐️ Rated: 2/5
+🏷️ #AmlieNothomb</content>
+    <link href="https://www.goodreads.com/review/show/8371356204"/>
+  </entry>
   <entry>
     <id>UserStatus1219837534-th</id>
     <title>Julien
@@ -58,17 +87,6 @@
     <link href="https://www.goodreads.com/review/show/8349606615"/>
   </entry>
   <entry>
-    <id>UserStatus1214709996-th</id>
-    <title>Julien
-    is 50% done with Le Petit Homme d'Arkhange</title>
-    <updated>2026-02-12T04:39:03+00:00</updated>
-    <content type="text">📈 I’ve read 50% of “Le Petit Homme d'Arkhangelsk” by Georges Simenon
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #GeorgesSimenon #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
     <id>ReadStatus10528850401-th</id>
     <title>Julien is currently reading 'Le Petit Homme d'Arkhangelsk'</title>
     <updated>2026-02-11T07:19:28+00:00</updated>
@@ -86,24 +104,5 @@
 📝 "Echenoz est en excellente forme avec Bristol, un court récit-fleuve où plusieurs personnages se croisent, se perdent et se retrouvent sans forcément avoir grand-chose en commun. Le roman est ponctué de passages d’une brillance rare et de scènes méta particulièrement savoureuses. L’auteur nous entraîne dans un récit en apparence quelconque, mais porté par un flot ininterrompu, fluide et passionnant. Du Echenoz pur jus. ⸻ Echenoz is in top form with Bristol, a short, river-like novel where multipl..."
 🏷️ #JeanEchenoz</content>
     <link href="https://www.goodreads.com/review/show/8344131863"/>
-  </entry>
-  <entry>
-    <id>Review466073601-th</id>
-    <title>Julien added 'The Body in the Library'</title>
-    <updated>2026-02-08T14:01:44+00:00</updated>
-    <content type="text">📚 “The Body in the Library” by Agatha Christie
-⭐️ Rated: 2/5
-📝 "I’ve always found Miss Marple stories a bit slow, and The Body in the Library is no exception. The pacing drags, and the sheer number of characters makes it easy to lose track of who’s who. That said, there’s no denying the cleverness of the plot. The final reveal is definitely worth it, if a little contrived. What should feel like a brisk, satisfying read ends up getting bogged down in confusion. —— J’ai toujours trouvé les enquêtes de Miss Marple un peu lentes, et Un cadavre dans le bibliothèq..."
-🏷️ #AgathaChristie</content>
-    <link href="https://www.goodreads.com/review/show/466073601"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10474649414-th</id>
-    <title>Julien started reading 'The Body in the Library'</title>
-    <updated>2026-01-29T14:41:59+00:00</updated>
-    <content type="text">🚀 Starting “The Body in the Library” by Agatha Christie
-🔗 Follow my progress: https://www.goodreads.com/review/show/466073601
-🏷️ #AgathaChristie #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/466073601"/>
   </entry>
 </feed>
