@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-02-22T14:28:25+00:00</updated>
+  <updated>2026-02-23T14:34:17+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1221766928-tw</id>
+    <title>Julien
+    is 30% done with The Accidental Woman</title>
+    <updated>2026-02-23T14:34:17+00:00</updated>
+    <content type="text">📈 I’ve read 30% of “The Accidental Woman” by Jonathan Coe
+▓▓▓▓▓▓░░░░░░░░░░░░░░  30.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #JonathanCoe #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1221062955-tw</id>
     <title>Julien
@@ -37,17 +48,6 @@
 ⭐️ Rated: 2/5
 🏷️ #AmlieNothomb</content>
     <link href="https://www.goodreads.com/review/show/8371356204"/>
-  </entry>
-  <entry>
-    <id>UserStatus1219837534-tw</id>
-    <title>Julien
-    is 50% done with Tant mieux</title>
-    <updated>2026-02-20T09:44:46+00:00</updated>
-    <content type="text">📈 I’ve read 50% of “Tant mieux” by Amélie Nothomb
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AmlieNothomb #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10560032797-tw</id>
