@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-23T14:34:17+00:00</updated>
+  <updated>2026-02-24T14:02:48+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1222445933-th</id>
+    <title>Julien
+    is 52% done with The Accidental Woman</title>
+    <updated>2026-02-24T14:02:48+00:00</updated>
+    <content type="text">📈 I’ve read 52% of “The Accidental Woman” by Jonathan Coe
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  52.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #JonathanCoe #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1221766928-th</id>
     <title>Julien
     is 30% done with The Accidental Woman</title>
     <updated>2026-02-23T14:34:17+00:00</updated>
     <content type="text">📈 I’ve read 30% of “The Accidental Woman” by Jonathan Coe
 ▓▓▓▓▓▓░░░░░░░░░░░░░░  30.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #JonathanCoe #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1221062955-th</id>
-    <title>Julien
-    is 10% done with The Accidental Woman</title>
-    <updated>2026-02-22T14:28:25+00:00</updated>
-    <content type="text">📈 I’ve read 10% of “The Accidental Woman” by Jonathan Coe
-▓▓░░░░░░░░░░░░░░░░░░  10.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #JonathanCoe #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
