@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-25T04:44:04+00:00</updated>
+  <updated>2026-02-25T08:11:25+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1223012794-th</id>
+    <title>Julien
+    is 15% done with Mrs. McGinty's Dead</title>
+    <updated>2026-02-25T08:11:25+00:00</updated>
+    <content type="text">📈 I’ve read 15% of “Mrs. McGinty's Dead” by Agatha Christie
+▓▓▓░░░░░░░░░░░░░░░░░  15.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AgathaChristie #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10586113236-th</id>
+    <title>Julien started reading 'Mrs. McGinty's Dead'</title>
+    <updated>2026-02-25T08:10:52+00:00</updated>
+    <content type="text">🚀 Starting “Mrs. McGinty's Dead” by Agatha Christie
+🔗 Follow my progress: https://www.goodreads.com/review/show/658855240
+🏷️ #AgathaChristie #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/658855240"/>
+  </entry>
   <entry>
     <id>Review8381048646-th</id>
     <title>Julien added 'The Accidental Woman'</title>
@@ -84,24 +104,5 @@
 ⭐️ Rated: 3/5
 🏷️ #GeorgesSimenon</content>
     <link href="https://www.goodreads.com/review/show/8349606615"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10528850401-th</id>
-    <title>Julien is currently reading 'Le Petit Homme d'Arkhangelsk'</title>
-    <updated>2026-02-11T07:19:28+00:00</updated>
-    <content type="text">🚀 Starting “Le Petit Homme d'Arkhangelsk” by Georges Simenon
-🔗 Follow my progress: https://www.goodreads.com/review/show/8349606615
-🏷️ #GeorgesSimenon #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8349606615"/>
-  </entry>
-  <entry>
-    <id>Review8344131863-th</id>
-    <title>Julien added 'Bristol'</title>
-    <updated>2026-02-10T07:51:20+00:00</updated>
-    <content type="text">📚 “Bristol” by Jean Echenoz
-⭐️ Rated: 4/5
-📝 "Echenoz est en excellente forme avec Bristol, un court récit-fleuve où plusieurs personnages se croisent, se perdent et se retrouvent sans forcément avoir grand-chose en commun. Le roman est ponctué de passages d’une brillance rare et de scènes méta particulièrement savoureuses. L’auteur nous entraîne dans un récit en apparence quelconque, mais porté par un flot ininterrompu, fluide et passionnant. Du Echenoz pur jus. ⸻ Echenoz is in top form with Bristol, a short, river-like novel where multipl..."
-🏷️ #JeanEchenoz</content>
-    <link href="https://www.goodreads.com/review/show/8344131863"/>
   </entry>
 </feed>
