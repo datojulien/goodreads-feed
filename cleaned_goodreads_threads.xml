@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-02-26T14:52:16+00:00</updated>
+  <updated>2026-03-01T08:06:12+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1225234794-th</id>
+    <title>Julien
+    is 75% done with Mrs. McGinty's Dead</title>
+    <updated>2026-03-01T08:06:12+00:00</updated>
+    <content type="text">📈 I’ve read 75% of “Mrs. McGinty's Dead” by Agatha Christie
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AgathaChristie #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1223756408-th</id>
     <title>Julien
     is 50% done with Mrs. McGinty's Dead</title>
     <updated>2026-02-26T14:52:16+00:00</updated>
     <content type="text">📈 I’ve read 50% of “Mrs. McGinty's Dead” by Agatha Christie
 ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AgathaChristie #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1223012794-th</id>
-    <title>Julien
-    is 15% done with Mrs. McGinty's Dead</title>
-    <updated>2026-02-25T08:11:25+00:00</updated>
-    <content type="text">📈 I’ve read 15% of “Mrs. McGinty's Dead” by Agatha Christie
-▓▓▓░░░░░░░░░░░░░░░░░  15.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #AgathaChristie #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
