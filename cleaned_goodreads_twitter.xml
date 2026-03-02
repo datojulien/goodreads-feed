@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-03-01T14:21:24+00:00</updated>
+  <updated>2026-03-02T13:55:14+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10606561087-tw</id>
+    <title>Julien is currently reading 'A Perfect Spy'</title>
+    <updated>2026-03-02T13:55:14+00:00</updated>
+    <content type="text">🚀 Starting “A Perfect Spy” by John le Carré
+🔗 Follow my progress: https://www.goodreads.com/review/show/8403882457
+🏷️ #JohnleCarr #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8403882457"/>
+  </entry>
   <entry>
     <id>Review658855240-tw</id>
     <title>Julien added 'Mrs. McGinty's Dead'</title>
@@ -93,14 +102,5 @@
 📝 "Bel effort pour un premier roman. L’histoire est très intéressante et le développement tient admirablement jusqu’à la fin. On sent une vraie ambition narrative et une plume maîtrisée. Là où le roman d..."
 🏷️ #JessRmondLacroix</content>
     <link href="https://www.goodreads.com/review/show/8370174273"/>
-  </entry>
-  <entry>
-    <id>Review8349606615-tw</id>
-    <title>Julien added 'Le Petit Homme d'Arkhangelsk'</title>
-    <updated>2026-02-16T00:52:26+00:00</updated>
-    <content type="text">📚 “Le Petit Homme d'Arkhangelsk” by Georges Simenon
-⭐️ Rated: 3/5
-🏷️ #GeorgesSimenon</content>
-    <link href="https://www.goodreads.com/review/show/8349606615"/>
   </entry>
 </feed>
