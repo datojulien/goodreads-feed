@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-03-16T07:02:50+00:00</updated>
+  <updated>2026-03-17T11:54:14+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1234985521-th</id>
+    <title>Julien
+    is 20% done with Kids, Wait Till You Hear</title>
+    <updated>2026-03-17T11:54:14+00:00</updated>
+    <content type="text">📈 I’ve read 20% of “Kids, Wait Till You Hear This!” by Liza Minnelli
+▓▓▓▓░░░░░░░░░░░░░░░░  20.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #LizaMinnelli #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus10665354115-th</id>
     <title>Julien is currently reading 'Kids, Wait Till You Hear This!'</title>
@@ -73,15 +84,6 @@
 ⭐️ Rated: 4/5
 📝 "Jonathan Coe’s first published novel already shows clear signs of his trademark quirkiness. The intrusive narrator is genuinely delightful, adding a playful layer to what is already a swift and engaging read. That said, there is sometimes a sense of abruptness at the end of chapters, as if the rhythm stumbles just before moving on. Even so, it remains a tremendously good book, revealing just how talented Coe was from the very beginning, and how he would continue refining his craft with each subs..."
 🏷️ #JonathanCoe</content>
-    <link href="https://www.goodreads.com/review/show/8381048646"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10573983398-th</id>
-    <title>Julien is currently reading 'The Accidental Woman'</title>
-    <updated>2026-02-22T14:28:11+00:00</updated>
-    <content type="text">🚀 Starting “The Accidental Woman” by Jonathan Coe
-🔗 Follow my progress: https://www.goodreads.com/review/show/8381048646
-🏷️ #JonathanCoe #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8381048646"/>
   </entry>
 </feed>
