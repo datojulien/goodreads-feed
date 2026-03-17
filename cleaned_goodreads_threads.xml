@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-03-17T11:54:14+00:00</updated>
+  <updated>2026-03-17T22:42:51+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review7378827743-th</id>
+    <title>Julien added 'This 'n That'</title>
+    <updated>2026-03-17T22:42:51+00:00</updated>
+    <content type="text">📚 “This 'n That” by Bette Davis
+⭐️ Rated: 2/5
+📝 "A strangely constructed autobiography, written after Davies’ stroke. It has its good moments, especially when the actress recalls her time on movie sets, but also some odd choices, like a full chapter written by and about her personal assistant. A very thin book, somewhat satisfying, yet not quite complete. ——— Une autobiographie construite de manière étrange, écrite après l’AVC de Davies. Elle comporte de bons moments, notamment lorsque l’actrice raconte ses souvenirs de tournage, mais aussi de..."
+🏷️ #BetteDavis</content>
+    <link href="https://www.goodreads.com/review/show/7378827743"/>
+  </entry>
   <entry>
     <id>UserStatus1234985521-th</id>
     <title>Julien
@@ -55,17 +65,6 @@
 ⭐️ Rated: 3/5
 🏷️ #AgathaChristie</content>
     <link href="https://www.goodreads.com/review/show/658855240"/>
-  </entry>
-  <entry>
-    <id>UserStatus1225234794-th</id>
-    <title>Julien
-    is 75% done with Mrs. McGinty's Dead</title>
-    <updated>2026-03-01T08:06:12+00:00</updated>
-    <content type="text">📈 I’ve read 75% of “Mrs. McGinty's Dead” by Agatha Christie
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AgathaChristie #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10586113236-th</id>
