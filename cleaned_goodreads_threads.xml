@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-03-30T14:03:57+00:00</updated>
+  <updated>2026-04-02T14:45:30+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1244389020-th</id>
+    <title>Julien
+    is 57% done with Kids, Wait Till You Hear</title>
+    <updated>2026-04-02T14:45:30+00:00</updated>
+    <content type="text">📈 I’ve read 57% of “Kids, Wait Till You Hear This!” by Liza Minnelli
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  57.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #LizaMinnelli #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1242562828-th</id>
     <title>Julien
@@ -29,17 +40,6 @@
 📝 "A strangely constructed autobiography, written after Davies’ stroke. It has its good moments, especially when the actress recalls her time on movie sets, but also some odd choices, like a full chapter written by and about her personal assistant. A very thin book, somewhat satisfying, yet not quite complete. ——— Une autobiographie construite de manière étrange, écrite après l’AVC de Davies. Elle comporte de bons moments, notamment lorsque l’actrice raconte ses souvenirs de tournage, mais aussi de..."
 🏷️ #BetteDavis</content>
     <link href="https://www.goodreads.com/review/show/7378827743"/>
-  </entry>
-  <entry>
-    <id>UserStatus1234985521-th</id>
-    <title>Julien
-    is 20% done with Kids, Wait Till You Hear</title>
-    <updated>2026-03-17T11:54:14+00:00</updated>
-    <content type="text">📈 I’ve read 20% of “Kids, Wait Till You Hear This!” by Liza Minnelli
-▓▓▓▓░░░░░░░░░░░░░░░░  20.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #LizaMinnelli #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10665354115-th</id>
