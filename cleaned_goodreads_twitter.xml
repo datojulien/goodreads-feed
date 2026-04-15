@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-04-02T14:45:30+00:00</updated>
+  <updated>2026-04-15T13:53:07+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1251899925-tw</id>
+    <title>Julien
+    is 65% done with Kids, Wait Till You Hear</title>
+    <updated>2026-04-15T13:53:07+00:00</updated>
+    <content type="text">📈 I’ve read 65% of “Kids, Wait Till You Hear This!” by Liza Minnelli
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #LizaMinnelli #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1244389020-tw</id>
     <title>Julien
     is 57% done with Kids, Wait Till You Hear</title>
     <updated>2026-04-02T14:45:30+00:00</updated>
     <content type="text">📈 I’ve read 57% of “Kids, Wait Till You Hear This!” by Liza Minnelli
 ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  57.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #LizaMinnelli #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1242562828-tw</id>
-    <title>Julien
-    is 46% done with Kids, Wait Till You Hear</title>
-    <updated>2026-03-30T14:03:57+00:00</updated>
-    <content type="text">📈 I’ve read 46% of “Kids, Wait Till You Hear This!” by Liza Minnelli
-▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  46.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #LizaMinnelli #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
