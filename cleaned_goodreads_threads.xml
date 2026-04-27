@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-04-26T13:48:42+00:00</updated>
+  <updated>2026-04-27T13:49:21+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1258349454-th</id>
+    <title>Julien
+    is 80% done with Volare</title>
+    <updated>2026-04-27T13:49:21+00:00</updated>
+    <content type="text">📈 I’ve read 80% of “Volare” by Serena Giuliano
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #SerenaGiuliano #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1257751110-th</id>
     <title>Julien
     is 65% done with Volare</title>
     <updated>2026-04-26T13:48:42+00:00</updated>
     <content type="text">📈 I’ve read 65% of “Volare” by Serena Giuliano
 ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #SerenaGiuliano #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1254552996-th</id>
-    <title>Julien
-    is 25% done with Volare</title>
-    <updated>2026-04-20T13:45:12+00:00</updated>
-    <content type="text">📈 I’ve read 25% of “Volare” by Serena Giuliano
-▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #SerenaGiuliano #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
