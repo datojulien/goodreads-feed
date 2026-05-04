@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-04-29T13:54:55+00:00</updated>
+  <updated>2026-05-04T14:00:43+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1262110819-tw</id>
+    <title>Julien
+    is 87% done with Kids, Wait Till You Hear</title>
+    <updated>2026-05-04T14:00:43+00:00</updated>
+    <content type="text">📈 I’ve read 87% of “Kids, Wait Till You Hear This!” by Liza Minnelli
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  87.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #LizaMinnelli #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>Review8537104134-tw</id>
     <title>Julien added 'Volare'</title>
@@ -74,14 +85,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8403882457
 🏷️ #JohnleCarr #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8403882457"/>
-  </entry>
-  <entry>
-    <id>Review658855240-tw</id>
-    <title>Julien added 'Mrs. McGinty's Dead'</title>
-    <updated>2026-03-01T14:21:24+00:00</updated>
-    <content type="text">📚 “Mrs. McGinty's Dead” by Agatha Christie
-⭐️ Rated: 3/5
-🏷️ #AgathaChristie</content>
-    <link href="https://www.goodreads.com/review/show/658855240"/>
   </entry>
 </feed>
