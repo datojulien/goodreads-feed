@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-05-04T14:00:43+00:00</updated>
+  <updated>2026-05-05T03:20:56+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8441333248-th</id>
+    <title>Julien added 'Kids, Wait Till You Hear This!'</title>
+    <updated>2026-05-05T03:13:44+00:00</updated>
+    <content type="text">📚 “Kids, Wait Till You Hear This!” by Liza Minnelli
+⭐️ Rated: 4/5
+📝 "An all-around surprisingly honest autobiography, told in her own voice and tone. Liza Minnelli doesn’t seem to hide much in this candid account, even if one suspects she may have left a few things for the unauthorized biography that will inevitably come one day. It’s a swift yet surprisingly deep read, revealing a true trooper, resilient, complex, and unwavering in the face of it all. ⸻ Une autobiographie étonnamment honnête, racontée avec sa propre voix et son ton singulier. Liza Minnelli ne se..."
+🏷️ #LizaMinnelli</content>
+    <link href="https://www.goodreads.com/review/show/8441333248"/>
+  </entry>
   <entry>
     <id>UserStatus1262110819-th</id>
     <title>Julien
@@ -28,17 +38,6 @@
 ⭐️ Rated: 3/5
 🏷️ #SerenaGiuliano</content>
     <link href="https://www.goodreads.com/review/show/8537104134"/>
-  </entry>
-  <entry>
-    <id>UserStatus1258349454-th</id>
-    <title>Julien
-    is 80% done with Volare</title>
-    <updated>2026-04-27T13:49:21+00:00</updated>
-    <content type="text">📈 I’ve read 80% of “Volare” by Serena Giuliano
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #SerenaGiuliano #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10804595377-th</id>
@@ -75,15 +74,6 @@
     <content type="text">📘 Finished “A Perfect Spy” by John le Carré
 🔗 https://www.goodreads.com/review/show/8403882457
 🏷️ #JohnleCarr</content>
-    <link href="https://www.goodreads.com/review/show/8403882457"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10606561087-th</id>
-    <title>Julien is currently reading 'A Perfect Spy'</title>
-    <updated>2026-03-02T13:55:14+00:00</updated>
-    <content type="text">🚀 Starting “A Perfect Spy” by John le Carré
-🔗 Follow my progress: https://www.goodreads.com/review/show/8403882457
-🏷️ #JohnleCarr #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8403882457"/>
   </entry>
 </feed>
