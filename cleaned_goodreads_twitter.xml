@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-10T08:16:30+00:00</updated>
+  <updated>2026-05-10T14:33:47+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus10880519881-tw</id>
+    <title>Julien is currently reading 'Maigret et l'inspecteur malgracieux'</title>
+    <updated>2026-05-10T14:33:47+00:00</updated>
+    <content type="text">🚀 Starting “Maigret et l'inspecteur malgracieux” by Georges Simenon
+🔗 Follow my progress: https://www.goodreads.com/review/show/8590089130
+🏷️ #GeorgesSimenon #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8590089130"/>
+  </entry>
+  <entry>
+    <id>Review8589554333-tw</id>
+    <title>Julien added 'Hell Hath No Fury'</title>
+    <updated>2026-05-10T14:33:35+00:00</updated>
+    <content type="text">📚 “Hell Hath No Fury” by Charles    Williams
+⭐️ Rated: 4/5
+🏷️ #CharlesWilliams</content>
+    <link href="https://www.goodreads.com/review/show/8589554333"/>
+  </entry>
   <entry>
     <id>UserStatus1265172205-tw</id>
     <title>Julien
@@ -21,15 +39,6 @@
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
-    <id>ReadStatus10879750217-tw</id>
-    <title>Julien is currently reading 'Hell Hath No Fury'</title>
-    <updated>2026-05-10T08:16:12+00:00</updated>
-    <content type="text">🚀 Starting “Hell Hath No Fury” by Charles    Williams
-🔗 Follow my progress: https://www.goodreads.com/review/show/8589554333
-🏷️ #CharlesWilliams #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8589554333"/>
-  </entry>
-  <entry>
     <id>Review8441333248-tw</id>
     <title>Julien added 'Kids, Wait Till You Hear This!'</title>
     <updated>2026-05-05T03:13:44+00:00</updated>
@@ -38,17 +47,6 @@
 📝 "An all-around surprisingly honest autobiography, told in her own voice and tone. Liza Minnelli doesn’t seem to hide much in this candid account, even if one suspects she may have left a few things for..."
 🏷️ #LizaMinnelli</content>
     <link href="https://www.goodreads.com/review/show/8441333248"/>
-  </entry>
-  <entry>
-    <id>UserStatus1262110819-tw</id>
-    <title>Julien
-    is 87% done with Kids, Wait Till You Hear</title>
-    <updated>2026-05-04T14:00:43+00:00</updated>
-    <content type="text">📈 I’ve read 87% of “Kids, Wait Till You Hear This!” by Liza Minnelli
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  87.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #LizaMinnelli #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>Review8537104134-tw</id>
