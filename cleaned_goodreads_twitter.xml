@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-10T14:33:47+00:00</updated>
+  <updated>2026-05-11T05:36:18+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,12 +10,30 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>ReadStatus10880519881-tw</id>
-    <title>Julien is currently reading 'Maigret et l'inspecteur malgracieux'</title>
-    <updated>2026-05-10T14:33:47+00:00</updated>
-    <content type="text">🚀 Starting “Maigret et l'inspecteur malgracieux” by Georges Simenon
-🔗 Follow my progress: https://www.goodreads.com/review/show/8590089130
-🏷️ #GeorgesSimenon #NowReading</content>
+    <id>Review8590089130-tw</id>
+    <title>Julien added 'Maigret et l'inspecteur malgracieux'</title>
+    <updated>2026-05-11T05:36:18+00:00</updated>
+    <content type="text">📚 “Maigret et l'inspecteur malgracieux” by Georges Simenon
+⭐️ Rated: 3/5
+🏷️ #GeorgesSimenon</content>
+    <link href="https://www.goodreads.com/review/show/8590089130"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10883339711-tw</id>
+    <title>Julien is currently reading 'Un été sans fin'</title>
+    <updated>2026-05-11T05:36:01+00:00</updated>
+    <content type="text">🚀 Starting “Un été sans fin” by Joseph d'Anvers
+🔗 Follow my progress: https://www.goodreads.com/review/show/8592006352
+🏷️ #JosephdAnvers #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8592006352"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10883339295-tw</id>
+    <title>Julien finished reading 'Maigret et l'inspecteur malgracieux'</title>
+    <updated>2026-05-11T05:35:47+00:00</updated>
+    <content type="text">📘 Finished “Maigret et l'inspecteur malgracieux” by Georges Simenon
+🔗 https://www.goodreads.com/review/show/8590089130
+🏷️ #GeorgesSimenon</content>
     <link href="https://www.goodreads.com/review/show/8590089130"/>
   </entry>
   <entry>
@@ -75,14 +93,5 @@
 📝 "A strangely constructed autobiography, written after Davies’ stroke. It has its good moments, especially when the actress recalls her time on movie sets, but also some odd choices, like a full chapter..."
 🏷️ #BetteDavis</content>
     <link href="https://www.goodreads.com/review/show/7378827743"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10665354115-tw</id>
-    <title>Julien is currently reading 'Kids, Wait Till You Hear This!'</title>
-    <updated>2026-03-16T07:02:50+00:00</updated>
-    <content type="text">🚀 Starting “Kids, Wait Till You Hear This!” by Liza Minnelli
-🔗 Follow my progress: https://www.goodreads.com/review/show/8441333248
-🏷️ #LizaMinnelli #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8441333248"/>
   </entry>
 </feed>
