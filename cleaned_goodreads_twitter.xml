@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-11T05:36:18+00:00</updated>
+  <updated>2026-05-11T13:48:10+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1265811914-tw</id>
+    <title>Julien
+    is 25% done with Un été sans fin</title>
+    <updated>2026-05-11T13:48:10+00:00</updated>
+    <content type="text">📈 I’ve read 25% of “Un été sans fin” by Joseph d'Anvers
+▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #JosephdAnvers #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>Review8590089130-tw</id>
     <title>Julien added 'Maigret et l'inspecteur malgracieux'</title>
@@ -83,15 +94,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8537104134
 🏷️ #SerenaGiuliano #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8537104134"/>
-  </entry>
-  <entry>
-    <id>Review7378827743-tw</id>
-    <title>Julien added 'This 'n That'</title>
-    <updated>2026-03-17T22:42:51+00:00</updated>
-    <content type="text">📚 “This 'n That” by Bette Davis
-⭐️ Rated: 2/5
-📝 "A strangely constructed autobiography, written after Davies’ stroke. It has its good moments, especially when the actress recalls her time on movie sets, but also some odd choices, like a full chapter..."
-🏷️ #BetteDavis</content>
-    <link href="https://www.goodreads.com/review/show/7378827743"/>
   </entry>
 </feed>
