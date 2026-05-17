@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-05-11T13:48:10+00:00</updated>
+  <updated>2026-05-17T07:43:33+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8592006352-th</id>
+    <title>Julien added 'Un été sans fin'</title>
+    <updated>2026-05-17T07:43:33+00:00</updated>
+    <content type="text">📚 “Un été sans fin” by Joseph d'Anvers
+⭐️ Rated: 4/5
+🏷️ #JosephdAnvers</content>
+    <link href="https://www.goodreads.com/review/show/8592006352"/>
+  </entry>
   <entry>
     <id>UserStatus1265811914-th</id>
     <title>Julien
@@ -55,17 +64,6 @@
 ⭐️ Rated: 4/5
 🏷️ #CharlesWilliams</content>
     <link href="https://www.goodreads.com/review/show/8589554333"/>
-  </entry>
-  <entry>
-    <id>UserStatus1265172205-th</id>
-    <title>Julien
-    is 80% done with Hell Hath No Fury</title>
-    <updated>2026-05-10T08:16:30+00:00</updated>
-    <content type="text">📈 I’ve read 80% of “Hell Hath No Fury” by Charles    Williams
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #CharlesWilliams #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>Review8441333248-th</id>
