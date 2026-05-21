@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-17T07:43:33+00:00</updated>
+  <updated>2026-05-21T14:28:09+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1271283980-tw</id>
+    <title>Julien
+    is 5% done with Perry Mason</title>
+    <updated>2026-05-21T14:28:09+00:00</updated>
+    <content type="text">📈 I’ve read 5% of “Perry Mason” by Erle Stanley Gardner
+▓░░░░░░░░░░░░░░░░░░░  5.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ErleStanleyGardner #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10922819007-tw</id>
+    <title>Julien is currently reading 'Perry Mason: The Case of the Stepdaughter's Secret'</title>
+    <updated>2026-05-21T14:28:01+00:00</updated>
+    <content type="text">🚀 Starting “Perry Mason: The Case of the Stepdaughter's Secret” by Erle Stanley Gardner
+🔗 Follow my progress: https://www.goodreads.com/review/show/8619625822
+🏷️ #ErleStanleyGardner #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8619625822"/>
+  </entry>
   <entry>
     <id>Review8592006352-tw</id>
     <title>Julien added 'Un été sans fin'</title>
@@ -74,23 +94,5 @@
 📝 "An all-around surprisingly honest autobiography, told in her own voice and tone. Liza Minnelli doesn’t seem to hide much in this candid account, even if one suspects she may have left a few things for..."
 🏷️ #LizaMinnelli</content>
     <link href="https://www.goodreads.com/review/show/8441333248"/>
-  </entry>
-  <entry>
-    <id>Review8537104134-tw</id>
-    <title>Julien added 'Volare'</title>
-    <updated>2026-04-29T13:54:55+00:00</updated>
-    <content type="text">📚 “Volare” by Serena Giuliano
-⭐️ Rated: 3/5
-🏷️ #SerenaGiuliano</content>
-    <link href="https://www.goodreads.com/review/show/8537104134"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10804595377-tw</id>
-    <title>Julien is currently reading 'Volare'</title>
-    <updated>2026-04-20T13:44:59+00:00</updated>
-    <content type="text">🚀 Starting “Volare” by Serena Giuliano
-🔗 Follow my progress: https://www.goodreads.com/review/show/8537104134
-🏷️ #SerenaGiuliano #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8537104134"/>
   </entry>
 </feed>
