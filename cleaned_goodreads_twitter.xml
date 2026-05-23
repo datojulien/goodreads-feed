@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-22T06:46:56+00:00</updated>
+  <updated>2026-05-23T13:55:29+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1272245029-tw</id>
+    <title>Julien
+    is 35% done with Perry Mason</title>
+    <updated>2026-05-23T13:55:29+00:00</updated>
+    <content type="text">📈 I’ve read 35% of “Perry Mason” by Erle Stanley Gardner
+▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ErleStanleyGardner #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1271687805-tw</id>
     <title>Julien
     is 25% done with Perry Mason</title>
     <updated>2026-05-22T06:46:56+00:00</updated>
     <content type="text">📈 I’ve read 25% of “Perry Mason” by Erle Stanley Gardner
 ▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ErleStanleyGardner #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1271283980-tw</id>
-    <title>Julien
-    is 5% done with Perry Mason</title>
-    <updated>2026-05-21T14:28:09+00:00</updated>
-    <content type="text">📈 I’ve read 5% of “Perry Mason” by Erle Stanley Gardner
-▓░░░░░░░░░░░░░░░░░░░  5.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #ErleStanleyGardner #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
