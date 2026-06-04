@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-05-27T08:10:08+00:00</updated>
+  <updated>2026-06-04T14:23:00+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1278942830-tw</id>
+    <title>Julien
+    is 46% done with Bogie &amp; Bacall</title>
+    <updated>2026-06-04T14:21:41+00:00</updated>
+    <content type="text">📈 I’ve read 46% of “Bogie &amp; Bacall” by William J. Mann
+▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  46.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #WilliamJMann #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus10978642998-tw</id>
+    <title>Julien is currently reading 'Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair'</title>
+    <updated>2026-06-04T14:21:35+00:00</updated>
+    <content type="text">🚀 Starting “Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair” by William J. Mann
+🔗 Follow my progress: https://www.goodreads.com/review/show/8658647792
+🏷️ #WilliamJMann #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8658647792"/>
+  </entry>
   <entry>
     <id>Review8619625822-tw</id>
     <title>Julien added 'Perry Mason: The Case of the Stepdaughter's Secret'</title>
@@ -73,24 +93,5 @@
 🔗 https://www.goodreads.com/review/show/8590089130
 🏷️ #GeorgesSimenon</content>
     <link href="https://www.goodreads.com/review/show/8590089130"/>
-  </entry>
-  <entry>
-    <id>Review8589554333-tw</id>
-    <title>Julien added 'Hell Hath No Fury'</title>
-    <updated>2026-05-10T14:33:35+00:00</updated>
-    <content type="text">📚 “Hell Hath No Fury” by Charles    Williams
-⭐️ Rated: 4/5
-🏷️ #CharlesWilliams</content>
-    <link href="https://www.goodreads.com/review/show/8589554333"/>
-  </entry>
-  <entry>
-    <id>Review8441333248-tw</id>
-    <title>Julien added 'Kids, Wait Till You Hear This!'</title>
-    <updated>2026-05-05T03:13:44+00:00</updated>
-    <content type="text">📚 “Kids, Wait Till You Hear This!” by Liza Minnelli
-⭐️ Rated: 4/5
-📝 "An all-around surprisingly honest autobiography, told in her own voice and tone. Liza Minnelli doesn’t seem to hide much in this candid account, even if one suspects she may have left a few things for..."
-🏷️ #LizaMinnelli</content>
-    <link href="https://www.goodreads.com/review/show/8441333248"/>
   </entry>
 </feed>
