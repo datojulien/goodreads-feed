@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-06-04T14:23:00+00:00</updated>
+  <updated>2026-06-08T13:54:00+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1281022628-th</id>
+    <title>Julien
+    is 52% done with Bogie &amp; Bacall</title>
+    <updated>2026-06-08T13:54:00+00:00</updated>
+    <content type="text">📈 I’ve read 52% of “Bogie &amp; Bacall” by William J. Mann
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  52.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #WilliamJMann #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1278942830-th</id>
     <title>Julien
@@ -37,17 +48,6 @@
 ⭐️ Rated: 3/5
 🏷️ #ErleStanleyGardner</content>
     <link href="https://www.goodreads.com/review/show/8619625822"/>
-  </entry>
-  <entry>
-    <id>UserStatus1274334221-th</id>
-    <title>Julien
-    is 75% done with Perry Mason</title>
-    <updated>2026-05-27T02:57:11+00:00</updated>
-    <content type="text">📈 I’ve read 75% of “Perry Mason” by Erle Stanley Gardner
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ErleStanleyGardner #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus10922819007-th</id>
