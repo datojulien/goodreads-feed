@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-06-08T13:54:00+00:00</updated>
+  <updated>2026-06-14T13:35:58+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,23 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>UserStatus1284212917-tw</id>
+    <title>Julien
+    is 75% done with Bogie &amp; Bacall</title>
+    <updated>2026-06-14T13:35:58+00:00</updated>
+    <content type="text">📈 I’ve read 75% of “Bogie &amp; Bacall” by William J. Mann
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #WilliamJMann #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
     <id>UserStatus1281022628-tw</id>
     <title>Julien
     is 52% done with Bogie &amp; Bacall</title>
     <updated>2026-06-08T13:54:00+00:00</updated>
     <content type="text">📈 I’ve read 52% of “Bogie &amp; Bacall” by William J. Mann
 ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  52.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #WilliamJMann #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1278942830-tw</id>
-    <title>Julien
-    is 46% done with Bogie &amp; Bacall</title>
-    <updated>2026-06-04T14:21:41+00:00</updated>
-    <content type="text">📈 I’ve read 46% of “Bogie &amp; Bacall” by William J. Mann
-▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  46.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #WilliamJMann #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
