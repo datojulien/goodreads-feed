@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-06-14T13:35:58+00:00</updated>
+  <updated>2026-06-17T10:01:03+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,22 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>Review8658647792-th</id>
+    <title>Julien added 'Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair'</title>
+    <updated>2026-06-17T10:01:03+00:00</updated>
+    <content type="text">📚 “Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair” by William J. Mann
+⭐️ Rated: 4/5
+📝 "Bogie &amp; Bacall is less a dual biography than an attempt to set the record straight about two Hollywood legends. Mann does not shy away from their flaws, but neither does he seek to diminish their achievements. Bogart’s alcoholism is often placed in context, while Bacall’s more difficult traits are interpreted through the lens of impostor syndrome. Yet the author never loses sight of what made them remarkable: Bogart’s immense talent as an actor and Bacall’s combination of talent, determination,..."
+🏷️ #WilliamJMann</content>
+    <link href="https://www.goodreads.com/review/show/8658647792"/>
+  </entry>
+  <entry>
     <id>UserStatus1284212917-th</id>
     <title>Julien
     is 75% done with Bogie &amp; Bacall</title>
     <updated>2026-06-14T13:35:58+00:00</updated>
     <content type="text">📈 I’ve read 75% of “Bogie &amp; Bacall” by William J. Mann
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #WilliamJMann #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1281022628-th</id>
-    <title>Julien
-    is 52% done with Bogie &amp; Bacall</title>
-    <updated>2026-06-08T13:54:00+00:00</updated>
-    <content type="text">📈 I’ve read 52% of “Bogie &amp; Bacall” by William J. Mann
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  52.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #WilliamJMann #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
