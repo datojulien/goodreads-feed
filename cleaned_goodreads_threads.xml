@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-06-17T10:01:03+00:00</updated>
+  <updated>2026-06-18T12:03:06+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus11032722041-th</id>
+    <title>Julien is currently reading 'L'homme humilié'</title>
+    <updated>2026-06-18T12:03:06+00:00</updated>
+    <content type="text">🚀 Starting “L'homme humilié” by VAVASSEUR Pierre
+🔗 Follow my progress: https://www.goodreads.com/review/show/8696438972
+🏷️ #VAVASSEURPierre #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8696438972"/>
+  </entry>
   <entry>
     <id>Review8658647792-th</id>
     <title>Julien added 'Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair'</title>
@@ -83,14 +92,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8592006352
 🏷️ #JosephdAnvers #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8592006352"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10883339295-th</id>
-    <title>Julien finished reading 'Maigret et l'inspecteur malgracieux'</title>
-    <updated>2026-05-11T05:35:47+00:00</updated>
-    <content type="text">📘 Finished “Maigret et l'inspecteur malgracieux” by Georges Simenon
-🔗 https://www.goodreads.com/review/show/8590089130
-🏷️ #GeorgesSimenon</content>
-    <link href="https://www.goodreads.com/review/show/8590089130"/>
   </entry>
 </feed>
