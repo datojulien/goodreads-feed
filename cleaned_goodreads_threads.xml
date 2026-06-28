@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-06-23T13:43:26+00:00</updated>
+  <updated>2026-06-28T13:25:03+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1291654864-th</id>
+    <title>Julien
+    is 25% done with The X-Files</title>
+    <updated>2026-06-28T13:25:03+00:00</updated>
+    <content type="text">📈 I’ve read 25% of “The X-Files” by Claudia Gray
+▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #ClaudiaGray #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus11052121300-th</id>
     <title>Julien is currently reading 'The X-Files: Perihelion'</title>
@@ -83,14 +94,5 @@
 ⭐️ Rated: 4/5
 🏷️ #JosephdAnvers</content>
     <link href="https://www.goodreads.com/review/show/8592006352"/>
-  </entry>
-  <entry>
-    <id>Review8590089130-th</id>
-    <title>Julien added 'Maigret et l'inspecteur malgracieux'</title>
-    <updated>2026-05-11T05:36:18+00:00</updated>
-    <content type="text">📚 “Maigret et l'inspecteur malgracieux” by Georges Simenon
-⭐️ Rated: 3/5
-🏷️ #GeorgesSimenon</content>
-    <link href="https://www.goodreads.com/review/show/8590089130"/>
   </entry>
 </feed>
