@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-05T09:37:44+00:00</updated>
+  <updated>2026-07-06T08:37:24+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,12 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>UserStatus1295284255-tw</id>
+    <id>UserStatus1295859484-tw</id>
     <title>Julien
-    is 45% done with The X-Files</title>
-    <updated>2026-07-05T09:37:44+00:00</updated>
-    <content type="text">📈 I’ve read 45% of “The X-Files” by Claudia Gray
-▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  45.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #ClaudiaGray #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1294780798-tw</id>
-    <title>Julien
-    is 35% done with The X-Files</title>
-    <updated>2026-07-04T05:32:10+00:00</updated>
-    <content type="text">📈 I’ve read 35% of “The X-Files” by Claudia Gray
-▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
+    is 72% done with The X-Files</title>
+    <updated>2026-07-06T08:37:19+00:00</updated>
+    <content type="text">📈 I’ve read 72% of “The X-Files” by Claudia Gray
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  72.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #ClaudiaGray #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
