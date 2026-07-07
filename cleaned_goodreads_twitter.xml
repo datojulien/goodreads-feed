@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-07T07:59:38+00:00</updated>
+  <updated>2026-07-07T14:29:41+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1296557043-tw</id>
+    <title>Julien
+    is 25% done with Les vacances de Maigret</title>
+    <updated>2026-07-07T14:29:41+00:00</updated>
+    <content type="text">📈 I’ve read 25% of “Les vacances de Maigret” by Georges Simenon
+▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #GeorgesSimenon #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus11108565310-tw</id>
+    <title>Julien is currently reading 'Les vacances de Maigret'</title>
+    <updated>2026-07-07T14:29:34+00:00</updated>
+    <content type="text">🚀 Starting “Les vacances de Maigret” by Georges Simenon
+🔗 Follow my progress: https://www.goodreads.com/review/show/8749647168
+🏷️ #GeorgesSimenon #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8749647168"/>
+  </entry>
   <entry>
     <id>Review8709983850-tw</id>
     <title>Julien added 'The X-Files: Perihelion'</title>
@@ -65,23 +85,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8658647792
 🏷️ #WilliamJMann #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8658647792"/>
-  </entry>
-  <entry>
-    <id>Review8619625822-tw</id>
-    <title>Julien added 'Perry Mason: The Case of the Stepdaughter's Secret'</title>
-    <updated>2026-05-27T08:10:08+00:00</updated>
-    <content type="text">📚 “Perry Mason: The Case of the Stepdaughter's Secret” by Erle Stanley Gardner
-⭐️ Rated: 3/5
-🏷️ #ErleStanleyGardner</content>
-    <link href="https://www.goodreads.com/review/show/8619625822"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10922819007-tw</id>
-    <title>Julien is currently reading 'Perry Mason: The Case of the Stepdaughter's Secret'</title>
-    <updated>2026-05-21T14:28:01+00:00</updated>
-    <content type="text">🚀 Starting “Perry Mason: The Case of the Stepdaughter's Secret” by Erle Stanley Gardner
-🔗 Follow my progress: https://www.goodreads.com/review/show/8619625822
-🏷️ #ErleStanleyGardner #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8619625822"/>
   </entry>
 </feed>
