@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-06T08:37:24+00:00</updated>
+  <updated>2026-07-07T07:59:38+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8709983850-tw</id>
+    <title>Julien added 'The X-Files: Perihelion'</title>
+    <updated>2026-07-07T07:59:38+00:00</updated>
+    <content type="text">📚 “The X-Files: Perihelion” by Claudia Gray
+⭐️ Rated: 4/5
+🏷️ #ClaudiaGray</content>
+    <link href="https://www.goodreads.com/review/show/8709983850"/>
+  </entry>
   <entry>
     <id>UserStatus1295859484-tw</id>
     <title>Julien
@@ -74,14 +83,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8619625822
 🏷️ #ErleStanleyGardner #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8619625822"/>
-  </entry>
-  <entry>
-    <id>Review8592006352-tw</id>
-    <title>Julien added 'Un été sans fin'</title>
-    <updated>2026-05-17T07:43:33+00:00</updated>
-    <content type="text">📚 “Un été sans fin” by Joseph d'Anvers
-⭐️ Rated: 4/5
-🏷️ #JosephdAnvers</content>
-    <link href="https://www.goodreads.com/review/show/8592006352"/>
   </entry>
 </feed>
