@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-10T08:49:26+00:00</updated>
+  <updated>2026-07-14T09:30:55+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,30 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>ReadStatus11136224398-tw</id>
+    <title>Julien is currently reading 'Farewell, My Lovely'</title>
+    <updated>2026-07-14T09:30:55+00:00</updated>
+    <content type="text">🚀 Starting “Farewell, My Lovely” by Raymond Chandler
+🔗 Follow my progress: https://www.goodreads.com/review/show/8768959703
+🏷️ #RaymondChandler #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8768959703"/>
+  </entry>
+  <entry>
+    <id>Review8749647168-tw</id>
+    <title>Julien added 'Les vacances de Maigret'</title>
+    <updated>2026-07-14T09:30:21+00:00</updated>
+    <content type="text">📚 “Les vacances de Maigret” by Georges Simenon
+⭐️ Rated: 3/5
+🏷️ #GeorgesSimenon</content>
+    <link href="https://www.goodreads.com/review/show/8749647168"/>
+  </entry>
+  <entry>
     <id>UserStatus1298185390-tw</id>
     <title>Julien
     is 50% done with Les vacances de Maigret</title>
     <updated>2026-07-10T08:49:26+00:00</updated>
     <content type="text">📈 I’ve read 50% of “Les vacances de Maigret” by Georges Simenon
 ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #GeorgesSimenon #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1296557043-tw</id>
-    <title>Julien
-    is 25% done with Les vacances de Maigret</title>
-    <updated>2026-07-07T14:29:41+00:00</updated>
-    <content type="text">📈 I’ve read 25% of “Les vacances de Maigret” by Georges Simenon
-▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #GeorgesSimenon #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -75,15 +82,6 @@
 ⭐️ Rated: 4/5
 📝 "Bogie &amp; Bacall is less a dual biography than an attempt to set the record straight about two Hollywood legends. Mann does not shy away from their flaws, but neither does he seek to diminish their achi..."
 🏷️ #WilliamJMann</content>
-    <link href="https://www.goodreads.com/review/show/8658647792"/>
-  </entry>
-  <entry>
-    <id>ReadStatus10978642998-tw</id>
-    <title>Julien is currently reading 'Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair'</title>
-    <updated>2026-06-04T14:21:35+00:00</updated>
-    <content type="text">🚀 Starting “Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair” by William J. Mann
-🔗 Follow my progress: https://www.goodreads.com/review/show/8658647792
-🏷️ #WilliamJMann #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8658647792"/>
   </entry>
 </feed>
