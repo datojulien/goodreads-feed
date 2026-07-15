@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-14T09:30:55+00:00</updated>
+  <updated>2026-07-15T11:12:04+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1300980997-tw</id>
+    <title>Julien
+    is 60% done with Farewell, My Lovely</title>
+    <updated>2026-07-15T11:12:04+00:00</updated>
+    <content type="text">📈 I’ve read 60% of “Farewell, My Lovely” by Raymond Chandler
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #RaymondChandler #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus11136224398-tw</id>
     <title>Julien is currently reading 'Farewell, My Lovely'</title>
@@ -73,15 +84,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8696438972
 🏷️ #VAVASSEURPierre #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8696438972"/>
-  </entry>
-  <entry>
-    <id>Review8658647792-tw</id>
-    <title>Julien added 'Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair'</title>
-    <updated>2026-06-17T10:01:03+00:00</updated>
-    <content type="text">📚 “Bogie &amp; Bacall: The Surprising True Story of Hollywood’s Greatest Love Affair” by William J. Mann
-⭐️ Rated: 4/5
-📝 "Bogie &amp; Bacall is less a dual biography than an attempt to set the record straight about two Hollywood legends. Mann does not shy away from their flaws, but neither does he seek to diminish their achi..."
-🏷️ #WilliamJMann</content>
-    <link href="https://www.goodreads.com/review/show/8658647792"/>
   </entry>
 </feed>
