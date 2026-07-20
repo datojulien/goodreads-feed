@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-07-19T13:45:44+00:00</updated>
+  <updated>2026-07-20T14:09:03+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus11160535960-th</id>
+    <title>Julien is currently reading 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
+    <updated>2026-07-20T13:36:18+00:00</updated>
+    <content type="text">🚀 Starting “A Century of Hitchcock: The Man, the Myths, the Legacy” by Tony Lee Moral
+🔗 Follow my progress: https://www.goodreads.com/review/show/8785902137
+🏷️ #TonyLeeMoral #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8785902137"/>
+  </entry>
   <entry>
     <id>Review8768959703-th</id>
     <title>Julien added 'Farewell, My Lovely'</title>
@@ -64,23 +73,5 @@
 ⭐️ Rated: 4/5
 🏷️ #ClaudiaGray</content>
     <link href="https://www.goodreads.com/review/show/8709983850"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11052121300-th</id>
-    <title>Julien is currently reading 'The X-Files: Perihelion'</title>
-    <updated>2026-06-23T13:43:26+00:00</updated>
-    <content type="text">🚀 Starting “The X-Files: Perihelion” by Claudia Gray
-🔗 Follow my progress: https://www.goodreads.com/review/show/8709983850
-🏷️ #ClaudiaGray #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8709983850"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11032722041-th</id>
-    <title>Julien is currently reading 'L'homme humilié'</title>
-    <updated>2026-06-18T12:03:06+00:00</updated>
-    <content type="text">🚀 Starting “L'homme humilié” by VAVASSEUR Pierre
-🔗 Follow my progress: https://www.goodreads.com/review/show/8696438972
-🏷️ #VAVASSEURPierre #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8696438972"/>
   </entry>
 </feed>
