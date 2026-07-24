@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-24T08:23:23+00:00</updated>
+  <updated>2026-07-24T15:15:09+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>Review8785902137-tw</id>
+    <title>Julien added 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
+    <updated>2026-07-24T15:15:09+00:00</updated>
+    <content type="text">📚 “A Century of Hitchcock: The Man, the Myths, the Legacy” by Tony Lee Moral
+⭐️ Rated: 4/5
+🏷️ #TonyLeeMoral</content>
+    <link href="https://www.goodreads.com/review/show/8785902137"/>
+  </entry>
   <entry>
     <id>ReadStatus11160535960-tw</id>
     <title>Julien is currently reading 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
