@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-07-24T15:15:09+00:00</updated>
+  <updated>2026-07-26T15:06:37+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1307108341-th</id>
+    <title>Julien
+    is 15% done with A Judgement in Stone</title>
+    <updated>2026-07-26T15:06:37+00:00</updated>
+    <content type="text">📈 I’ve read 15% of “A Judgement in Stone” by Ruth Rendell
+▓▓▓░░░░░░░░░░░░░░░░░  15.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #RuthRendell #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus11185054338-th</id>
+    <title>Julien is currently reading 'A Judgement in Stone'</title>
+    <updated>2026-07-26T15:06:33+00:00</updated>
+    <content type="text">🚀 Starting “A Judgement in Stone” by Ruth Rendell
+🔗 Follow my progress: https://www.goodreads.com/review/show/8803037481
+🏷️ #RuthRendell #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8803037481"/>
+  </entry>
   <entry>
     <id>Review8785902137-th</id>
     <title>Julien added 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
@@ -63,14 +83,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8749647168
 🏷️ #GeorgesSimenon #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8749647168"/>
-  </entry>
-  <entry>
-    <id>Review8709983850-th</id>
-    <title>Julien added 'The X-Files: Perihelion'</title>
-    <updated>2026-07-07T07:59:38+00:00</updated>
-    <content type="text">📚 “The X-Files: Perihelion” by Claudia Gray
-⭐️ Rated: 4/5
-🏷️ #ClaudiaGray</content>
-    <link href="https://www.goodreads.com/review/show/8709983850"/>
   </entry>
 </feed>
