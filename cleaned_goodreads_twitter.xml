@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-07-28T14:09:25+00:00</updated>
+  <updated>2026-07-29T14:12:47+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,31 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>ReadStatus11198137445-tw</id>
+    <title>Julien is currently reading 'The Daughter of Time'</title>
+    <updated>2026-07-29T14:12:47+00:00</updated>
+    <content type="text">🚀 Starting “The Daughter of Time” by Josephine Tey
+🔗 Follow my progress: https://www.goodreads.com/review/show/8812223479
+🏷️ #JosephineTey #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8812223479"/>
+  </entry>
+  <entry>
+    <id>Review8803037481-tw</id>
+    <title>Julien added 'A Judgement in Stone'</title>
+    <updated>2026-07-29T13:18:24+00:00</updated>
+    <content type="text">📚 “A Judgement in Stone” by Ruth Rendell
+⭐️ Rated: 4/5
+📝 "A Judgement in Stone opens by revealing the ending, apparently spoiling the mystery from the very first page. Yet Ruth Rendell turns that apparent weakness into one of the novel’s greatest strengths...."
+🏷️ #RuthRendell</content>
+    <link href="https://www.goodreads.com/review/show/8803037481"/>
+  </entry>
+  <entry>
     <id>UserStatus1308322093-tw</id>
     <title>Julien
     is 76% done with A Judgement in Stone</title>
     <updated>2026-07-28T14:09:25+00:00</updated>
     <content type="text">📈 I’ve read 76% of “A Judgement in Stone” by Ruth Rendell
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  76.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #RuthRendell #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1307712369-tw</id>
-    <title>Julien
-    is 52% done with A Judgement in Stone</title>
-    <updated>2026-07-27T14:38:50+00:00</updated>
-    <content type="text">📈 I’ve read 52% of “A Judgement in Stone” by Ruth Rendell
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  52.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #RuthRendell #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -84,15 +92,6 @@
     <content type="text">📚 “Les vacances de Maigret” by Georges Simenon
 ⭐️ Rated: 3/5
 🏷️ #GeorgesSimenon</content>
-    <link href="https://www.goodreads.com/review/show/8749647168"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11108565310-tw</id>
-    <title>Julien is currently reading 'Les vacances de Maigret'</title>
-    <updated>2026-07-07T14:29:34+00:00</updated>
-    <content type="text">🚀 Starting “Les vacances de Maigret” by Georges Simenon
-🔗 Follow my progress: https://www.goodreads.com/review/show/8749647168
-🏷️ #GeorgesSimenon #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8749647168"/>
   </entry>
 </feed>
