@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-07-30T14:49:57+00:00</updated>
+  <updated>2026-08-09T14:47:12+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus11243976786-th</id>
+    <title>Julien is currently reading 'Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery'</title>
+    <updated>2026-08-09T14:47:12+00:00</updated>
+    <content type="text">🚀 Starting “Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery” by Roland Orzabal
+🔗 Follow my progress: https://www.goodreads.com/review/show/8844604528
+🏷️ #RolandOrzabal #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8844604528"/>
+  </entry>
   <entry>
     <id>UserStatus1309540286-th</id>
     <title>Julien
@@ -38,17 +47,6 @@
 📝 "A Judgement in Stone opens by revealing the ending, apparently spoiling the mystery from the very first page. Yet Ruth Rendell turns that apparent weakness into one of the novel’s greatest strengths. Knowing that the Coverdale family will be murdered by their illiterate housekeeper, Eunice Parchman, only heightens the suspense. Month after month, Rendell tightens the tension with remarkable precision, making the inevitable feel almost unbearable. The novel is less about discovering what happens..."
 🏷️ #RuthRendell</content>
     <link href="https://www.goodreads.com/review/show/8803037481"/>
-  </entry>
-  <entry>
-    <id>UserStatus1308322093-th</id>
-    <title>Julien
-    is 76% done with A Judgement in Stone</title>
-    <updated>2026-07-28T14:09:25+00:00</updated>
-    <content type="text">📈 I’ve read 76% of “A Judgement in Stone” by Ruth Rendell
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  76.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #RuthRendell #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus11185054338-th</id>
