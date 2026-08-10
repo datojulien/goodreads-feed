@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-08-09T14:47:12+00:00</updated>
+  <updated>2026-08-10T07:22:00+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1315520433-th</id>
+    <title>Julien
+    is 20% done with Welcome to Your Life</title>
+    <updated>2026-08-10T07:22:00+00:00</updated>
+    <content type="text">📈 I’ve read 20% of “Welcome to Your Life” by Roland Orzabal
+▓▓▓▓░░░░░░░░░░░░░░░░  20.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #RolandOrzabal #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus11243976786-th</id>
     <title>Julien is currently reading 'Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery'</title>
