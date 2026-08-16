@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-08-10T07:22:00+00:00</updated>
+  <updated>2026-08-16T15:13:37+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1318920612-tw</id>
+    <title>Julien
+    is 60% done with Welcome to Your Life</title>
+    <updated>2026-08-16T15:13:37+00:00</updated>
+    <content type="text">📈 I’ve read 60% of “Welcome to Your Life” by Roland Orzabal
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #RolandOrzabal #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1315520433-tw</id>
     <title>Julien
@@ -28,17 +39,6 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8844604528
 🏷️ #RolandOrzabal #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8844604528"/>
-  </entry>
-  <entry>
-    <id>UserStatus1309540286-tw</id>
-    <title>Julien
-    is 25% done with The Daughter of Time</title>
-    <updated>2026-07-30T14:49:57+00:00</updated>
-    <content type="text">📈 I’ve read 25% of “The Daughter of Time” by Josephine Tey
-▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #JosephineTey #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus11198137445-tw</id>
