@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-08-18T14:04:59+00:00</updated>
+  <updated>2026-08-20T15:02:56+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,21 @@
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>Review8844604528-th</id>
+    <title>Julien added 'Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery'</title>
+    <updated>2026-08-20T15:02:56+00:00</updated>
+    <content type="text">📚 “Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery” by Roland Orzabal
+⭐️ Rated: 4/5
+🏷️ #RolandOrzabal</content>
+    <link href="https://www.goodreads.com/review/show/8844604528"/>
+  </entry>
+  <entry>
     <id>UserStatus1320085895-th</id>
     <title>Julien
     is 70% done with Welcome to Your Life</title>
     <updated>2026-08-18T14:04:59+00:00</updated>
     <content type="text">📈 I’ve read 70% of “Welcome to Your Life” by Roland Orzabal
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  70.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #RolandOrzabal #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1318920612-th</id>
-    <title>Julien
-    is 60% done with Welcome to Your Life</title>
-    <updated>2026-08-16T15:13:37+00:00</updated>
-    <content type="text">📈 I’ve read 60% of “Welcome to Your Life” by Roland Orzabal
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #RolandOrzabal #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
