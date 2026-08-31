@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-08-26T14:41:06+00:00</updated>
+  <updated>2026-08-31T14:48:28+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1327093684-tw</id>
+    <title>Julien
+    is 65% done with L'Adolescence du perroque</title>
+    <updated>2026-08-31T14:48:28+00:00</updated>
+    <content type="text">📈 I’ve read 65% of “L'Adolescence du perroquet” by Amélie Nothomb
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AmlieNothomb #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1324520296-tw</id>
     <title>Julien
@@ -37,17 +48,6 @@
 ⭐️ Rated: 4/5
 🏷️ #RolandOrzabal</content>
     <link href="https://www.goodreads.com/review/show/8844604528"/>
-  </entry>
-  <entry>
-    <id>UserStatus1320085895-tw</id>
-    <title>Julien
-    is 70% done with Welcome to Your Life</title>
-    <updated>2026-08-18T14:04:59+00:00</updated>
-    <content type="text">📈 I’ve read 70% of “Welcome to Your Life” by Roland Orzabal
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  70.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #RolandOrzabal #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus11243976786-tw</id>
