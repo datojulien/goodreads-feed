@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-09-01T14:00:18+00:00</updated>
+  <updated>2026-09-02T14:08:17+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1328196289-tw</id>
+    <title>Julien
+    is 25% done with Rappelle-moi, ma belle</title>
+    <updated>2026-09-02T14:08:17+00:00</updated>
+    <content type="text">📈 I’ve read 25% of “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
+▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AnnaOstasenkoBogdanoff #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
+  <entry>
+    <id>ReadStatus11340845727-tw</id>
+    <title>Julien is currently reading 'Rappelle-moi, ma belle'</title>
+    <updated>2026-09-02T14:08:12+00:00</updated>
+    <content type="text">🚀 Starting “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
+🔗 Follow my progress: https://www.goodreads.com/review/show/8912857218
+🏷️ #AnnaOstasenkoBogdanoff #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8912857218"/>
+  </entry>
   <entry>
     <id>Review8892910641-tw</id>
     <title>Julien added 'L'Adolescence du perroquet'</title>
@@ -83,24 +103,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8803037481
 🏷️ #RuthRendell #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8803037481"/>
-  </entry>
-  <entry>
-    <id>Review8785902137-tw</id>
-    <title>Julien added 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
-    <updated>2026-07-24T15:15:09+00:00</updated>
-    <content type="text">📚 “A Century of Hitchcock: The Man, the Myths, the Legacy” by Tony Lee Moral
-⭐️ Rated: 4/5
-📝 "There is nothing left to convince me of Alfred Hitchcock’s genius or the complexities of his behavior. Tony Lee Moral’s book is simply proof in the pudding, and it never comes at Tippi Hedren’s expens..."
-🏷️ #TonyLeeMoral</content>
-    <link href="https://www.goodreads.com/review/show/8785902137"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11160535960-tw</id>
-    <title>Julien is currently reading 'A Century of Hitchcock: The Man, the Myths, the Legacy'</title>
-    <updated>2026-07-20T13:36:18+00:00</updated>
-    <content type="text">🚀 Starting “A Century of Hitchcock: The Man, the Myths, the Legacy” by Tony Lee Moral
-🔗 Follow my progress: https://www.goodreads.com/review/show/8785902137
-🏷️ #TonyLeeMoral #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8785902137"/>
   </entry>
 </feed>
