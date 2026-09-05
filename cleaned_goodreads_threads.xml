@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-09-02T14:08:17+00:00</updated>
+  <updated>2026-09-05T14:43:28+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1329697518-th</id>
+    <title>Julien
+    is 46% done with Rappelle-moi, ma belle</title>
+    <updated>2026-09-05T14:43:28+00:00</updated>
+    <content type="text">📈 I’ve read 46% of “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
+▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  46.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #AnnaOstasenkoBogdanoff #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>UserStatus1328196289-th</id>
     <title>Julien
@@ -37,17 +48,6 @@
 ⭐️ Rated: 3/5
 🏷️ #AmlieNothomb</content>
     <link href="https://www.goodreads.com/review/show/8892910641"/>
-  </entry>
-  <entry>
-    <id>UserStatus1327093684-th</id>
-    <title>Julien
-    is 65% done with L'Adolescence du perroque</title>
-    <updated>2026-08-31T14:48:28+00:00</updated>
-    <content type="text">📈 I’ve read 65% of “L'Adolescence du perroquet” by Amélie Nothomb
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  65.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AmlieNothomb #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
   </entry>
   <entry>
     <id>ReadStatus11312713472-th</id>
