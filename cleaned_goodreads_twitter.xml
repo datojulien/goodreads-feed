@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-09-05T14:43:28+00:00</updated>
+  <updated>2026-09-09T14:05:06+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,30 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>ReadStatus11368021382-tw</id>
+    <title>Julien is currently reading 'Le Palais'</title>
+    <updated>2026-09-09T14:05:06+00:00</updated>
+    <content type="text">🚀 Starting “Le Palais” by François-Henri Désérable
+🔗 Follow my progress: https://www.goodreads.com/review/show/8931993223
+🏷️ #FranoisHenriDsrable #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8931993223"/>
+  </entry>
+  <entry>
+    <id>Review8912857218-tw</id>
+    <title>Julien added 'Rappelle-moi, ma belle'</title>
+    <updated>2026-09-09T14:04:54+00:00</updated>
+    <content type="text">📚 “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
+⭐️ Rated: 3/5
+🏷️ #AnnaOstasenkoBogdanoff</content>
+    <link href="https://www.goodreads.com/review/show/8912857218"/>
+  </entry>
+  <entry>
     <id>UserStatus1329697518-tw</id>
     <title>Julien
     is 46% done with Rappelle-moi, ma belle</title>
     <updated>2026-09-05T14:43:28+00:00</updated>
     <content type="text">📈 I’ve read 46% of “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
 ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  46.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #AnnaOstasenkoBogdanoff #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1328196289-tw</id>
-    <title>Julien
-    is 25% done with Rappelle-moi, ma belle</title>
-    <updated>2026-09-02T14:08:17+00:00</updated>
-    <content type="text">📈 I’ve read 25% of “Rappelle-moi, ma belle” by Anna Ostasenko Bogdanoff
-▓▓▓▓▓░░░░░░░░░░░░░░░  25.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #AnnaOstasenkoBogdanoff #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -93,15 +100,6 @@
 ⭐️ Rated: 4/5
 📝 "A Judgement in Stone opens by revealing the ending, apparently spoiling the mystery from the very first page. Yet Ruth Rendell turns that apparent weakness into one of the novel’s greatest strengths...."
 🏷️ #RuthRendell</content>
-    <link href="https://www.goodreads.com/review/show/8803037481"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11185054338-tw</id>
-    <title>Julien is currently reading 'A Judgement in Stone'</title>
-    <updated>2026-07-26T15:06:33+00:00</updated>
-    <content type="text">🚀 Starting “A Judgement in Stone” by Ruth Rendell
-🔗 Follow my progress: https://www.goodreads.com/review/show/8803037481
-🏷️ #RuthRendell #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8803037481"/>
   </entry>
 </feed>
