@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-09-16T09:58:10+00:00</updated>
+  <updated>2026-09-16T14:03:50+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>UserStatus1335441483-tw</id>
+    <title>Julien
+    is 35% done with Psycho</title>
+    <updated>2026-09-16T14:03:50+00:00</updated>
+    <content type="text">📈 I’ve read 35% of “Psycho” by Janet Leigh
+▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
+🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
+🏷️ #JanetLeigh #ReadingProgress</content>
+    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
+  </entry>
   <entry>
     <id>ReadStatus11393828609-tw</id>
     <title>Julien is currently reading 'Psycho: Behind the Scenes of the Classic Thriller'</title>
@@ -91,14 +102,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8844604528
 🏷️ #RolandOrzabal #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8844604528"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11198137445-tw</id>
-    <title>Julien is currently reading 'The Daughter of Time'</title>
-    <updated>2026-07-29T14:12:47+00:00</updated>
-    <content type="text">🚀 Starting “The Daughter of Time” by Josephine Tey
-🔗 Follow my progress: https://www.goodreads.com/review/show/8812223479
-🏷️ #JosephineTey #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8812223479"/>
   </entry>
 </feed>
