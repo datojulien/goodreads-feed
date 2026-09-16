@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Threads Feed</title>
-  <updated>2026-09-09T14:05:06+00:00</updated>
+  <updated>2026-09-16T09:58:10+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
   <link href="https://www.goodreads.com/user/updates_rss/14857928" rel="alternate"/>
   <link href="cleaned_goodreads_threads.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>ReadStatus11393828609-th</id>
+    <title>Julien is currently reading 'Psycho: Behind the Scenes of the Classic Thriller'</title>
+    <updated>2026-09-16T09:58:10+00:00</updated>
+    <content type="text">🚀 Starting “Psycho: Behind the Scenes of the Classic Thriller” by Janet Leigh
+🔗 Follow my progress: https://www.goodreads.com/review/show/8950173205
+🏷️ #JanetLeigh #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8950173205"/>
+  </entry>
   <entry>
     <id>ReadStatus11368021382-th</id>
     <title>Julien is currently reading 'Le Palais'</title>
@@ -91,15 +100,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8812223479
 🏷️ #JosephineTey #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8812223479"/>
-  </entry>
-  <entry>
-    <id>Review8803037481-th</id>
-    <title>Julien added 'A Judgement in Stone'</title>
-    <updated>2026-07-29T13:18:24+00:00</updated>
-    <content type="text">📚 “A Judgement in Stone” by Ruth Rendell
-⭐️ Rated: 4/5
-📝 "A Judgement in Stone opens by revealing the ending, apparently spoiling the mystery from the very first page. Yet Ruth Rendell turns that apparent weakness into one of the novel’s greatest strengths. Knowing that the Coverdale family will be murdered by their illiterate housekeeper, Eunice Parchman, only heightens the suspense. Month after month, Rendell tightens the tension with remarkable precision, making the inevitable feel almost unbearable. The novel is less about discovering what happens..."
-🏷️ #RuthRendell</content>
-    <link href="https://www.goodreads.com/review/show/8803037481"/>
   </entry>
 </feed>
