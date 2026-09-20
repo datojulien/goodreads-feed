@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.goodreads.com/user/updates_rss/14857928</id>
   <title>Julien’s Goodreads → Twitter Feed</title>
-  <updated>2026-09-17T15:13:16+00:00</updated>
+  <updated>2026-09-20T14:57:49+00:00</updated>
   <author>
     <name>Julien</name>
   </author>
@@ -10,23 +10,39 @@
   <link href="cleaned_goodreads_twitter.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>Review8950173205-tw</id>
+    <title>Julien added 'Psycho: Behind the Scenes of the Classic Thriller'</title>
+    <updated>2026-09-20T14:57:49+00:00</updated>
+    <content type="text">📚 “Psycho: Behind the Scenes of the Classic Thriller” by Janet Leigh
+⭐️ Rated: 3/5
+🏷️ #JanetLeigh</content>
+    <link href="https://www.goodreads.com/review/show/8950173205"/>
+  </entry>
+  <entry>
+    <id>ReadStatus11408570346-tw</id>
+    <title>Julien is currently reading 'Le dernier présage de Victoria Woodhull (Roman français)'</title>
+    <updated>2026-09-20T14:57:46+00:00</updated>
+    <content type="text">🚀 Starting “Le dernier présage de Victoria Woodhull” by Maxim Schwartz
+🔗 Follow my progress: https://www.goodreads.com/review/show/8960527088
+🏷️ #MaximSchwartz #NowReading</content>
+    <link href="https://www.goodreads.com/review/show/8960527088"/>
+  </entry>
+  <entry>
+    <id>ReadStatus11408568421-tw</id>
+    <title>Julien finished reading 'Psycho: Behind the Scenes of the Classic Thriller'</title>
+    <updated>2026-09-20T14:57:18+00:00</updated>
+    <content type="text">📘 Finished “Psycho: Behind the Scenes of the Classic Thriller” by Janet Leigh
+🔗 https://www.goodreads.com/review/show/8950173205
+🏷️ #JanetLeigh</content>
+    <link href="https://www.goodreads.com/review/show/8950173205"/>
+  </entry>
+  <entry>
     <id>UserStatus1335975592-tw</id>
     <title>Julien
     is 58% done with Psycho</title>
     <updated>2026-09-17T15:13:16+00:00</updated>
     <content type="text">📈 I’ve read 58% of “Psycho” by Janet Leigh
 ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  58.00%
-🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
-🏷️ #JanetLeigh #ReadingProgress</content>
-    <link href="https://www.goodreads.com/user/show/14857928-julien"/>
-  </entry>
-  <entry>
-    <id>UserStatus1335441483-tw</id>
-    <title>Julien
-    is 35% done with Psycho</title>
-    <updated>2026-09-16T14:03:50+00:00</updated>
-    <content type="text">📈 I’ve read 35% of “Psycho” by Janet Leigh
-▓▓▓▓▓▓▓░░░░░░░░░░░░░  35.00%
 🔗 Progress: https://www.goodreads.com/user/show/14857928-julien
 🏷️ #JanetLeigh #ReadingProgress</content>
     <link href="https://www.goodreads.com/user/show/14857928-julien"/>
@@ -84,23 +100,5 @@
 🔗 Follow my progress: https://www.goodreads.com/review/show/8892910641
 🏷️ #AmlieNothomb #NowReading</content>
     <link href="https://www.goodreads.com/review/show/8892910641"/>
-  </entry>
-  <entry>
-    <id>Review8844604528-tw</id>
-    <title>Julien added 'Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery'</title>
-    <updated>2026-08-20T15:02:56+00:00</updated>
-    <content type="text">📚 “Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery” by Roland Orzabal
-⭐️ Rated: 4/5
-🏷️ #RolandOrzabal</content>
-    <link href="https://www.goodreads.com/review/show/8844604528"/>
-  </entry>
-  <entry>
-    <id>ReadStatus11243976786-tw</id>
-    <title>Julien is currently reading 'Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery'</title>
-    <updated>2026-08-09T14:47:12+00:00</updated>
-    <content type="text">🚀 Starting “Welcome to Your Life: Love, Death &amp; Tears For Fears – An Iconic Musician's Journey Through Grief, Addiction, and Recovery” by Roland Orzabal
-🔗 Follow my progress: https://www.goodreads.com/review/show/8844604528
-🏷️ #RolandOrzabal #NowReading</content>
-    <link href="https://www.goodreads.com/review/show/8844604528"/>
   </entry>
 </feed>
