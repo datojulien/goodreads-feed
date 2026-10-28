@@ -107,6 +107,20 @@ class EventsTest(unittest.TestCase):
         _, events = h.plan_update(initial(), [row], [book()], ACCOUNT, LATER)
         self.assertEqual(events, [])
 
+    def test_baseline_review_with_end_of_day_date_is_never_reposted(self):
+        row = journal('reviewed', when=BASE + dt.timedelta(hours=10), metadata={'review_raw': 'Existing review'})
+        row['updated_at'] = h.sql_time(BASE - dt.timedelta(minutes=1))
+        state = initial([row])
+        row['metadata']['review_raw'] = 'A historical correction'
+        row['updated_at'] = h.sql_time(LATER)
+        self.assertEqual(h.plan_update(state, [row], [book()], ACCOUNT, LATER)[1], [])
+
+    def test_new_date_only_event_does_not_publish_a_future_timestamp(self):
+        row = journal('user_book_read_finished', when=LATER + dt.timedelta(hours=10), metadata={'finished_at': '2026-10-28'})
+        row['updated_at'] = h.sql_time(LATER)
+        events = h.plan_update(initial(), [row], [book()], ACCOUNT, LATER)[1]
+        self.assertEqual(events[0]['when'], h.iso(LATER))
+
     def test_private_rows_books_and_other_users_are_excluded(self):
         rows = [journal('reviewed', 1, privacy=3), journal('reviewed', 2, book_id=43), journal('reviewed', 3)]
         rows[2]['user_id'] = 999

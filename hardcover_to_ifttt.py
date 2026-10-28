@@ -180,7 +180,9 @@ def event_from(row, record, baseline):
             raise FeedError('A source rating is outside its supported range.')
     if event == 'rated' and not rating:
         return None
-    when = updated if kind == 'progress' else action
+    # Date-only reading events can be represented at the end of that day. Do not
+    # publish a future Atom timestamp when their journal row was updated earlier.
+    when = updated if kind == 'progress' else min(action, updated)
     semantic_key = f'{kind}:{row["book_id"]}:{action.date()}' if kind in ('started', 'finished') else f'{event}:{row["id"]}:{signature(row)}'
     revision = digest([signature(row), iso(updated)])[:20]
     return {'id': f'urn:hardcover:journal:{row["id"]}:{revision}', 'kind': kind,
@@ -195,11 +197,13 @@ def plan_update(state, journals, library, account, now):
     public.sort(key=lambda r: (instant(r['updated_at']), int(r['id'])))
     if state is None:
         return {'version': 1, 'account': copy.deepcopy(account), 'baseline_at': iso(now), 'last_poll_at': iso(now),
+                'baseline_journal_ids': sorted(str(r['id']) for r in public),
                 'observed': {str(r['id']): signature(r) for r in public}, 'published': {}}, []
     if state.get('version') != 1 or state.get('account') != account:
         raise FeedError('The saved feed state belongs to a different account or format.')
     baseline = instant(state['baseline_at'])
     result = copy.deepcopy(state)
+    baseline_ids = set(result.setdefault('baseline_journal_ids', list(state['observed'])))
     candidates = []
     for row in public:
         fingerprint = signature(row)
@@ -208,6 +212,8 @@ def plan_update(state, journals, library, account, now):
         result['observed'][str(row['id'])] = fingerprint
         if row['event'] not in SUPPORTED or str(row['book_id']) not in library:
             continue
+        if str(row['id']) in baseline_ids and row['event'] != 'progress_updated':
+            continue  # Existing history stays suppressed even with end-of-day dates.
         candidate = event_from(row, library[str(row['book_id'])], baseline)
         if candidate:
             candidates.append(candidate)
