@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+hardcover_feed_report.json
+preview/

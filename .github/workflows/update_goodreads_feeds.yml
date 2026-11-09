@@ -1,44 +1,102 @@
-name: Update Goodreads Feeds
+name: Update Reading Feeds
 
-# Run every 5 minutes
 on:
+  # Preserve the existing hourly cadence.
   schedule:
-    - cron: '*/60 * * * *'
-  workflow_dispatch:  # allow manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Preview never commits; bootstrap silently resets the baseline.
+        type: choice
+        options: [preview, bootstrap, publish]
+        default: preview
+  pull_request:
+    paths:
+      - hardcover_to_ifttt.py
+      - tests/**
+      - .github/workflows/update_goodreads_feeds.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reading-feeds-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  build-and-push:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.11'
+      - run: python -m unittest discover -s tests -v
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser beautifulsoup4 feedgen
-
-      - name: Run feed generator
-        run: |
-          python goodreads_to_ifttt.py
-
-      - name: Commit regenerated feeds
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add cleaned_goodreads_twitter.xml cleaned_goodreads_threads.xml
-          git commit -m "Auto-update feeds via Actions" || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+  feeds:
+    needs: test
+    # Activation is a separate, explicit repository-variable change.
+    if: >-
+      github.event_name != 'pull_request' &&
+      (github.event_name == 'workflow_dispatch' || vars.HARDCOVER_FEED_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    env:
+      MODE: ${{ github.event.inputs.mode || 'publish' }}
+      HARDCOVER_FEED_ENABLED: ${{ vars.HARDCOVER_FEED_ENABLED }}
+      HARDCOVER_API_TOKEN: ${{ secrets.HARDCOVER_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: main
-          force: true
+          python-version: '3.11'
+      - name: Validate publishing guards
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$MODE" in
+            preview) ;;
+            bootstrap|publish)
+              test "$GITHUB_REF" = refs/heads/main || { echo 'Only main can commit feed state.'; exit 1; }
+              if test "$MODE" = publish; then
+                test "$HARDCOVER_FEED_ENABLED" = true || { echo 'Live feed publishing is disabled.'; exit 1; }
+              fi
+              ;;
+            *) echo 'Unknown feed mode.'; exit 1 ;;
+          esac
+      - name: Read public Hardcover journal
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$MODE" in
+            preview) python hardcover_to_ifttt.py --preview-dir "$RUNNER_TEMP/hardcover-preview" ;;
+            bootstrap) python hardcover_to_ifttt.py --bootstrap ;;
+            publish) python hardcover_to_ifttt.py ;;
+          esac
+      - name: Save preview artifact
+        if: env.MODE == 'preview'
+        uses: actions/upload-artifact@v7
+        with:
+          name: hardcover-feed-preview
+          path: ${{ runner.temp }}/hardcover-preview/
+          retention-days: 7
+      - name: Commit feeds and state together
+        if: env.MODE != 'preview'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add cleaned_goodreads_twitter.xml cleaned_goodreads_threads.xml hardcover_feed_state.json
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Update reading feeds from public Hardcover journal'
+          git push origin HEAD:main
 
